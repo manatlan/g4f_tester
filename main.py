@@ -110,8 +110,8 @@ if __name__ == "__main__":
     with open("results.md","w+") as fid:
         vv=db.get_g4fs()
         ll=["models"]+vv
-        fid.write(f"|{'|'.join(ll)}|")
-        fid.write(f"|{'|'.join(['---' for i in ll])}|")
+        fid.write(f"|{'|'.join(ll)}|\n")
+        fid.write(f"|{'|'.join(['---' for i in ll])}|\n")
 
         for model in db.get_models():
             vv=[]
@@ -122,5 +122,5 @@ if __name__ == "__main__":
                     n,o,t = nott
                     if o: good=f"{v}({n})"
                 vv.append( f"{good:13s}" )
-            fid.write(f"|{model:20s}|{'|'.join(vv)}|")
+            fid.write(f"|{model:20s}|{'|'.join(vv)}|\n")
 
