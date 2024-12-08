@@ -117,5 +117,5 @@ if __name__ == "__main__":
                     n,o,t = nott
                     if o: good=f"{v}({n})"
                 vv.append( f"{good:13s}" )
-            fid.write(f"|{model:20s}|","|".join(vv),'|')
+            fid.write(f"|{model:20s}|{'|'.join(vv)}|')
 
