@@ -108,14 +108,14 @@ if __name__ == "__main__":
 
     db=DB()
     with open("results.md","w+") as fid:
-        vv=db.get_g4fs()
-        ll=["models"]+vv
+        vs=db.get_g4fs()
+        ll=["models"]+vs
         fid.write(f"|{'|'.join(ll)}|\n")
         fid.write(f"|{'|'.join(['---' for i in ll])}|\n")
 
         for model in db.get_models():
             vv=[]
-            for v in vv:
+            for v in vs:
                 nott=db.get(v,model)
                 good=""
                 if nott:
