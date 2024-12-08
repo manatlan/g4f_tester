@@ -111,7 +111,7 @@ if __name__ == "__main__":
         vv=db.get_g4fs()
         ll=["models"]+vv
         fid.write(f"|{'|'.join(ll)}|")
-        fid.write(f"|{'|'.join(["---" for i in ll])}|")
+        fid.write(f"|{'|'.join(['---' for i in ll])}|")
 
         for model in db.get_models():
             vv=[]
