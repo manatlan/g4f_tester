@@ -19,7 +19,7 @@ jobs:
 
       - name: test make help
         run: |
-          pip install g4f -U
+          pip install g4f==0.3.8.1 -U
           chmod +x main.py
           ./main.py 
 
