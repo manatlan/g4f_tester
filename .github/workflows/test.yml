@@ -29,6 +29,6 @@ jobs:
           author_name: github
           author_email: mail@example.com
           message: 'update results from github'
-          add: 
-            - 'results.md'
-            - 'db.json'
+          add: |
+            - results.md
+            - db.json
