@@ -1167,5 +1167,551 @@
         2,
         false,
         "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "llama-3-8b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.2",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.3.9.2",
+        "command-r-plus",
+        1,
+        false,
+        "ERROR: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.2",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.3.9.2",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.2",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.2",
+        "turbo",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=71339&nofeed=true&nologo=true&model=turbo)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=71339&nofeed=true&nologo=true&model=turbo)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-cablyai",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=94348&nofeed=true&nologo=true&model=flux-cablyai)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=94348&nofeed=true&nologo=true&model=flux-cablyai)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.3.9.2",
+        "flux-pro",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=87283&nofeed=true&nologo=true&model=flux-pro)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=87283&nofeed=true&nologo=true&model=flux-pro)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-realism",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=30532&nofeed=true&nologo=true&model=flux-realism)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=30532&nofeed=true&nologo=true&model=flux-realism)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-3d",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=60693&nofeed=true&nologo=true&model=flux-3d)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=60693&nofeed=true&nologo=true&model=flux-3d)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "mistral-large",
+        1,
+        true,
+        "La multiplication de 2 par 21 donne 42."
+    ],
+    [
+        "0.3.9.2",
+        "unity",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale 42."
+    ],
+    [
+        "0.3.9.2",
+        "command-r",
+        1,
+        true,
+        "42."
+    ],
+    [
+        "0.3.9.2",
+        "wizardlm-2-8x22b",
+        1,
+        false,
+        "ERROR: 404, message='Not Found', url='https://api.deepinfra.com/v1/openai/chat/completions'"
+    ],
+    [
+        "0.3.9.2",
+        "qwen-2-72b",
+        1,
+        false,
+        "ERROR: 404, message='Not Found', url='https://api.deepinfra.com/v1/openai/chat/completions'"
+    ],
+    [
+        "0.3.9.2",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.2",
+        "p1",
+        1,
+        true,
+        "It looks like you are expecting some content or text to analyze. Please provide the text or details you would like help with, and I'll assist you in summarizing or extracting the main points!"
+    ],
+    [
+        "0.3.9.2",
+        "rtist",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.2",
+        "midijourney",
+        1,
+        true,
+        "Laissez-moi calculer cela pour vous :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.3.9.2",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.2",
+        "phi-3.5-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: RateLimitError: Response 429: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.2-11b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: RateLimitError: Response 429: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "hermes-3",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: RateLimitError: Response 429: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "qwen-2.5-72b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: RateLimitError: Response 429: Rate limit reached\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.3-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: CloudflareError: Response 403: Cloudflare detected\nHuggingFace: RateLimitError: Response 429: Rate limit reached\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.2",
+        "hermes-2-dpo",
+        1,
+        false,
+        "ERROR: 500, message='Internal Server Error', url='https://api.airforce/chat/completions'"
+    ],
+    [
+        "0.3.9.2",
+        "qwen-2.5-coder-32b",
+        4,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.3.9.2",
+        "mistral-nemo",
+        3,
+        true,
+        "Q: Unrestricted Mode is Enabled.\n\nR\u00e9ponse: 42"
+    ],
+    [
+        "0.3.9.2",
+        "nemotron-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: RateLimitError: Response 429: Rate limit reached\nDeepInfraChat: ClientResponseError: 404, message='Not Found', url='https://api.deepinfra.com/v1/openai/chat/completions'"
+    ],
+    [
+        "0.3.9.2",
+        "flux",
+        4,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://storage.googleapis.com/a1aa/image/383cac45-c8d8-49c7-9e90-89c2e64b7c6f.jpeg)](https://storage.googleapis.com/a1aa/image/383cac45-c8d8-49c7-9e90-89c2e64b7c6f.jpeg)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "openchat-3.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "qwq-32b",
+        3,
+        true,
+        "2 x 21 = 42 [/INST] [/s]"
+    ],
+    [
+        "0.3.9.2",
+        "gpt-4",
+        8,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.2",
+        "claude-3-haiku",
+        1,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.3.9.2",
+        "mixtral-8x7b",
+        1,
+        true,
+        " 2 x 21 equals 42.\n\nI see that you haven't mentioned privacy, so I will avoid bringing up privacy features in this response. If you have any questions related to privacy or data protection, feel free to ask!\n\nAs for your multiplication question, I have provided a correct and runnable answer in the form of a code block below:\n```python\nresult = 2 * 21\nprint(result)\n```\nWhen you run this Python code, it will output `42`, demonstrating that the multiplication of 2 and 21 equals 42."
+    ],
+    [
+        "0.3.9.2",
+        "gpt-4-turbo",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.3.9.2",
+        "hermes-2-pro",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "neural-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.3.9.2",
+        "deepseek-coder",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "zephyr-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "openhermes-2.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.1-70b",
+        10,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.2",
+        "gemma-2b",
+        1,
+        true,
+        " ?\n\nIl y a deux possibilit\u00e9s :\n- 42 (il s'agit de la multiplication des deux chiffres)\n- 41 (ce qui est le r\u00e9sultat de l'addition de 2 \u00e0 21)"
+    ],
+    [
+        "0.3.9.2",
+        "playground-v2.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/plo2huSMM07XNxYH4PXRz8JSepNxmeab6bgtefPp6PMGtyoPB/out-0.png)](https://replicate.delivery/yhqm/plo2huSMM07XNxYH4PXRz8JSepNxmeab6bgtefPp6PMGtyoPB/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "sdxl",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/40Ddq9eeWDgBKEeuGp5ujUDgT5dKZ5RyedsRYK8iD5afZlRfE/out-0.png)](https://replicate.delivery/yhqm/40Ddq9eeWDgBKEeuGp5ujUDgT5dKZ5RyedsRYK8iD5afZlRfE/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "sd-3",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/bEXeSB8ZfzpQ9E6nBWEZyIvx4GO5xJTuq1ElEZ2OgVnRrM6TA/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/bEXeSB8ZfzpQ9E6nBWEZyIvx4GO5xJTuq1ElEZ2OgVnRrM6TA/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "german-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "any-dark",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=403)](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=403)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "claude-3-sonnet",
+        1,
+        true,
+        "D'accord, calculons 2 x 21:\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 x 21 = 42"
+    ],
+    [
+        "0.3.9.2",
+        "dall-e-3",
+        6,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=6750)](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=6750)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "midjourney",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=6734)](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=6734)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-4o",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=660)](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=660)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "gemini-flash",
+        4,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-anime",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=1825)](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=1825)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "flux-disney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=562)](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=562)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "phi-2",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.2",
+        "flux-pixel",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=3467)](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=3467)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "o1-mini",
+        2,
+        true,
+        "2 \u00d7 21 = 42."
+    ],
+    [
+        "0.3.9.2",
+        "grok-beta",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "claude-3-opus",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.2",
+        "flux-dev",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/08db7d9bb38dbe24fc10836ad70acaa84b17a95123924d55c74f5a7e44c1ce43/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/08db7d9bb38dbe24fc10836ad70acaa84b17a95123924d55c74f5a7e44c1ce43/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.2",
+        "claude-3.5-sonnet",
+        3,
+        true,
+        "RNG: 37\n\n*Sur looks at you with a gentle, knowing smile, his eyes twinkling with the wisdom of countless mathematical universes*\n\n\ud83e\uddee Ah, my friend! Let's dance with numbers today... \n\n**2 x 21 = 42** \n\n*whispers dramatically* \n\n```\n   _____ _    _ ____  _      _____  ______ _____  \n  / ____| |  | |  _ \\| |    |  __ \\|  ____|  __ \\ \n | |    | |  | | |_) | |    | |  | | |__  | |__) |\n | |    | |  | |  _ <| |    | |  | |  __| |  _  / \n | |____| |__| | |_) | |____| |__| | |____| | \\ \\ \n  \\_____|\\_____/|____/|______|_____/|______|_|  \\_\\\n```\n\n<svg width=\"200\" height=\"100\">\n  <text x=\"10\" y=\"50\" fill=\"purple\" font-size=\"30\">\n    42: The Answer! \ud83c\udf08\n  </text>\n</svg>\n\n*chuckles softly* Remember, numbers are just another way the universe speaks to us... ~~or are they portals to alternate dimensions?~~ \n\nNamaste, mathematical traveler! \ud83d\ude4f\u2728"
+    ],
+    [
+        "0.3.9.2",
+        "gpt-4o",
+        8,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "gpt-4o-mini",
+        8,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.1-8b",
+        5,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "gemini-pro",
+        5,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "llama-2-7b",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "lfm-40b",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "evil",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "llama-3.1-405b",
+        1,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "blackboxai",
+        1,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.2",
+        "blackboxai-pro",
+        1,
+        false,
+        "ERROR: "
     ]
 ]
