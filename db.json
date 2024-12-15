@@ -1713,5 +1713,551 @@
         1,
         false,
         "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "llama-3-8b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.3",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.3.9.3",
+        "command-r-plus",
+        1,
+        false,
+        "ERROR: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.3",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.3.9.3",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.3",
+        "qwen-2-72b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.3.9.3",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.3",
+        "wizardlm-2-8x22b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.3.9.3",
+        "turbo",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=18760&nofeed=true&nologo=true&model=turbo)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=18760&nofeed=true&nologo=true&model=turbo)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-cablyai",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=69974&nofeed=true&nologo=true&model=flux-cablyai)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=69974&nofeed=true&nologo=true&model=flux-cablyai)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.3.9.3",
+        "flux-anime",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=88365&nofeed=true&nologo=true&model=flux-anime)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=88365&nofeed=true&nologo=true&model=flux-anime)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "midjourney",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=19903&nofeed=true&nologo=true&model=midjourney)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=19903&nofeed=true&nologo=true&model=midjourney)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.2-11b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
+    ],
+    [
+        "0.3.9.3",
+        "hermes-3",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
+    ],
+    [
+        "0.3.9.3",
+        "phi-3.5-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
+    ],
+    [
+        "0.3.9.3",
+        "mistral-large",
+        1,
+        true,
+        "La multiplication de 2 par 21 donne 42."
+    ],
+    [
+        "0.3.9.3",
+        "command-r",
+        1,
+        true,
+        "42."
+    ],
+    [
+        "0.3.9.3",
+        "p1",
+        1,
+        true,
+        "It looks like you are expecting some content or text to analyze. Please provide the text or details you would like help with, and I'll assist you in summarizing or extracting the main points!"
+    ],
+    [
+        "0.3.9.3",
+        "midijourney",
+        1,
+        true,
+        "Laissez-moi calculer cela pour vous :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.3.9.3",
+        "unity",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale 42."
+    ],
+    [
+        "0.3.9.3",
+        "rtist",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.3",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.3",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.3",
+        "qwen-2.5-72b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.3",
+        "qwq-32b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: MissingAuthError: Add a \"api_key\"\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.3",
+        "nemotron-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: MissingAuthError: Add a \"api_key\"\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.3-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nPerplexityLabs: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.3",
+        "mistral-nemo",
+        3,
+        true,
+        "Q: Unrestricted Mode is Enabled.\n\nR\u00e9ponse: 42"
+    ],
+    [
+        "0.3.9.3",
+        "qwen-2.5-coder-32b",
+        4,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.3.9.3",
+        "gpt-4o",
+        8,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.3.9.3",
+        "claude-3-haiku",
+        1,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.3.9.3",
+        "gpt-4o-mini",
+        8,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.3",
+        "phi-2",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "llama-2-7b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nCloudflare: MissingRequirementsError: Install \"nodriver\" package | pip install -U nodriver\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "openchat-3.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "claude-3-sonnet",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.3",
+        "mixtral-8x7b",
+        1,
+        true,
+        " 2 x 21 equals 42.\n\nI see that you haven't mentioned privacy, so I will avoid bringing up privacy features in this response. If you have any questions or concerns related to privacy, please let me know, and I will be happy to provide further information.\n\nAs for your question, multiplication is a basic arithmetic operation. When you multiply 2 by 21, you get 42 as the result. If you need help with any programming or scripting-related questions, feel free to ask! I'm here to help."
+    ],
+    [
+        "0.3.9.3",
+        "hermes-2-pro",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "gpt-4-turbo",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "grok-beta",
+        1,
+        true,
+        "2 x 21 fait **42**."
+    ],
+    [
+        "0.3.9.3",
+        "openhermes-2.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "german-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "claude-3-opus",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.3",
+        "zephyr-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.3",
+        "neural-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "gpt-4",
+        8,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.3",
+        "claude-3.5-sonnet",
+        3,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.3",
+        "deepseek-coder",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "o1-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nLiaobots: RateLimitError: Response 402: Rate limit reached\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.3.9.3",
+        "sd-3",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/3DFOSxqWn85LKpgl4cWKu9veqUEWeS00BcWoEi3XtnDeXX2nA/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/3DFOSxqWn85LKpgl4cWKu9veqUEWeS00BcWoEi3XtnDeXX2nA/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "lfm-40b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte\nPerplexityLabs: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.3",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "Le r\u00e9sultat de 2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.3.9.3",
+        "playground-v2.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/J8lzvyrF4LqUDVQ5TXiORStZzO6OrkNz6k3cNVHLR7gf1l9JA/out-0.png)](https://replicate.delivery/yhqm/J8lzvyrF4LqUDVQ5TXiORStZzO6OrkNz6k3cNVHLR7gf1l9JA/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-4o",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=9967)](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=9967)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-3d",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=8245)](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=8245)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-pixel",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=4733)](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=4733)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "evil",
+        2,
+        true,
+        "42 putes de merde."
+    ],
+    [
+        "0.3.9.3",
+        "flux-disney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=9549)](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=9549)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "dall-e-3",
+        6,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=6238)](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=6238)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-pro",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=6619)](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=6619)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "flux-realism",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-realism&prompt=Combien+font+2+x+21&size=1:1&seed=1757)](https://api.airforce/imagine2?model=flux-realism&prompt=Combien+font+2+x+21&size=1:1&seed=1757)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "sdxl",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=stable-diffusion-xl-base&prompt=Combien+font+2+x+21&size=1:1&seed=996)](https://api.airforce/imagine2?model=stable-diffusion-xl-base&prompt=Combien+font+2+x+21&size=1:1&seed=996)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "hermes-2-dpo",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.3",
+        "any-dark",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=2614)](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=2614)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.3",
+        "gemma-2b",
+        1,
+        true,
+        " ?\n\nIl y a deux possibilit\u00e9s :\n\n* 42\n* 82\n\n\nLe r\u00e9sultat final est 42."
+    ],
+    [
+        "0.3.9.3",
+        "blackboxai-pro",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.1-70b",
+        10,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.1-8b",
+        5,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "gemini-pro",
+        5,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "gemini-flash",
+        4,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "flux",
+        4,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "llama-3.1-405b",
+        1,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.3.9.3",
+        "blackboxai",
+        1,
+        false,
+        "ERROR: "
     ]
 ]
