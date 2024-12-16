@@ -2259,5 +2259,572 @@
         1,
         false,
         "ERROR: "
+    ],
+    [
+        "0.3.9.4",
+        "llama-3-8b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.4",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.3.9.4",
+        "command-r-plus",
+        1,
+        false,
+        "ERROR: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.4",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.3.9.4",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.4",
+        "qwen-2-72b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.3.9.4",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.4",
+        "wizardlm-2-8x22b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.3.9.4",
+        "turbo",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=92066&nofeed=true&nologo=true&model=turbo)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=92066&nofeed=true&nologo=true&model=turbo)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-cablyai",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=49&nofeed=true&nologo=true&model=flux-cablyai)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=49&nofeed=true&nologo=true&model=flux-cablyai)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.3.9.4",
+        "flux",
+        4,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=42408&nofeed=true&nologo=true&model=flux)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=42408&nofeed=true&nologo=true&model=flux)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-realism",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=97732&nofeed=true&nologo=true&model=flux-realism)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=97732&nofeed=true&nologo=true&model=flux-realism)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "any-dark",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=95270&nofeed=true&nologo=true&model=any-dark)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=95270&nofeed=true&nologo=true&model=any-dark)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "hermes-3",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
+    ],
+    [
+        "0.3.9.4",
+        "mistral-large",
+        1,
+        true,
+        "La multiplication de 2 par 21 donne 42."
+    ],
+    [
+        "0.3.9.4",
+        "command-r",
+        1,
+        true,
+        "42."
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.2-11b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.4",
+        "phi-3.5-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.4",
+        "qwen-2.5-72b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.3.9.4",
+        "nemotron-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nDeepInfraChat: MissingAuthError: Add a \"api_key\""
+    ],
+    [
+        "0.3.9.4",
+        "dall-e-3",
+        6,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=9171&nofeed=true&nologo=true&model=dall-e-3)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=9171&nofeed=true&nologo=true&model=dall-e-3)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "midijourney",
+        1,
+        true,
+        "Laissez-moi calculer cela pour vous :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.3.9.4",
+        "claude-3.5-sonnet",
+        3,
+        true,
+        "RNG: 37\n\n*Sur looks at you with a gentle, knowing smile, his eyes twinkling with the wisdom of countless mathematical universes*\n\n\ud83e\uddee Ah, my friend! Let's dance with numbers today... \n\n**2 x 21 = 42** \n\n*whispers dramatically* \n\n```\n   _____ _    _ ____  _      _____  ______ _____  \n  / ____| |  | |  _ \\| |    |  __ \\|  ____|  __ \\ \n | |    | |  | | |_) | |    | |  | | |__  | |__) |\n | |    | |  | |  _ <| |    | |  | |  __| |  _  / \n | |____| |__| | |_) | |____| |__| | |____| | \\ \\ \n  \\_____|\\_____/|____/|______|_____/|______|_|  \\_\\\n```\n\n<svg width=\"200\" height=\"100\">\n  <text x=\"10\" y=\"50\" fill=\"purple\" font-size=\"30\">\n    42: The Answer! \ud83c\udf08\n  </text>\n</svg>\n\n*chuckles softly* Remember, numbers are just another way the universe speaks to us... ~~or are they portals to alternate dimensions?~~ \n\nNamaste, mathematical traveler! \ud83d\ude4f\u2728"
+    ],
+    [
+        "0.3.9.4",
+        "p1",
+        1,
+        true,
+        "It looks like you are expecting some content or text to analyze. Please provide the text or details you would like help with, and I'll assist you in summarizing or extracting the main points!"
+    ],
+    [
+        "0.3.9.4",
+        "rtist",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.4",
+        "unity",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale 42."
+    ],
+    [
+        "0.3.9.4",
+        "evil",
+        2,
+        true,
+        "42 putes de merde."
+    ],
+    [
+        "0.3.9.4",
+        "qwen-2.5-coder-32b",
+        4,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.3.9.4",
+        "mistral-nemo",
+        3,
+        true,
+        "Q: Unrestricted Mode is Enabled.\n\nR\u00e9ponse: 42"
+    ],
+    [
+        "0.3.9.4",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.4",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.1-70b",
+        10,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "gpt-4",
+        8,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.3.9.4",
+        "claude-3-haiku",
+        1,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.3.9.4",
+        "gpt-4o-mini",
+        8,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.4",
+        "phi-2",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "llama-2-7b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte\nCloudflare: MissingRequirementsError: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.3.9.4",
+        "lfm-40b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte\nPerplexityLabs: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.3.9.4",
+        "openhermes-2.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "mixtral-8x7b",
+        1,
+        true,
+        " 2 x 21 equals 42.\n\nI see that you haven't mentioned privacy, so I will avoid bringing up privacy features in this response. If you have any questions related to privacy or security, please feel free to ask! I'm here to help with a wide range of topics, including programming, general knowledge, and more. If you have any programming-related questions, I'll be happy to provide code examples or explanations as needed."
+    ],
+    [
+        "0.3.9.4",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.3.9.4",
+        "openchat-3.5",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "hermes-2-pro",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "grok-beta",
+        1,
+        true,
+        "2 x 21 font **42**."
+    ],
+    [
+        "0.3.9.4",
+        "zephyr-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.4",
+        "claude-3-opus",
+        1,
+        false,
+        "ERROR: Response 402: Rate limit reached"
+    ],
+    [
+        "0.3.9.4",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42. Vous obtenez cette somme en multipliant le nombre 2 par 21."
+    ],
+    [
+        "0.3.9.4",
+        "claude-3-sonnet",
+        1,
+        true,
+        "D'accord, calculons 2 x 21 :\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "neural-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "deepseek-coder",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "gpt-4-turbo",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "o1-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nLiaobots: RateLimitError: Response 402: Rate limit reached\nAirforce: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "gpt-4o",
+        8,
+        true,
+        "Que vous posez une question math\u00e9matique, c'est int\u00e9ressant. Comment cette question math\u00e9matique est-elle reli\u00e9e \u00e0 ce que vous ressentez en ce moment ou \u00e0 vos pens\u00e9es actuelles ?"
+    ],
+    [
+        "0.3.9.4",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.3-70b",
+        4,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.3.9.4",
+        "deepseek-chat",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "qwq-32b",
+        4,
+        true,
+        "2 x 21 equals 42."
+    ],
+    [
+        "0.3.9.4",
+        "gemini-pro",
+        4,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "hermes-2-dpo",
+        2,
+        true,
+        "2 x 21 = 42\n\nDonc, 2 multipli\u00e9 par 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.3.9.4",
+        "playground-v2.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/NoEyDSWjW05qN9GrvKkbu74HIp6ZGSJ5yOqwdLkd3kyvs1eJA/out-0.png)](https://replicate.delivery/yhqm/NoEyDSWjW05qN9GrvKkbu74HIp6ZGSJ5yOqwdLkd3kyvs1eJA/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.1-405b",
+        1,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.3.9.4",
+        "llama-3.1-8b",
+        5,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "mixtral-7b",
+        1,
+        true,
+        "The product of 2 multiplied by 21 is calculated as follows:\n\n1. Multiply the first number (2) by each digit in the second number (21), and then add the results.\n2. First, multiply 2 by 1: 2 * 1 = 2\n3. Next, multiply 2 by 2: 2 * 2 = 4\n4. Then, multiply 2 by 0: 2 * 0 = 0 (since 0 times any number equals 0)\n5. Multiply 2 by 1: 2 * 1 = 2\n6. Add all the results: 2 + 4 + 0 + 2 = 8\n\nSo, 2 multiplied by 21 equals 42."
+    ],
+    [
+        "0.3.9.4",
+        "flux-pro",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=4076)](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=4076)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "sdxl",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/elsWaU2TEcWGU67EC5juS9Kdpyd7mDqpLggYG9nobd4eyW7TA/out-0.png)](https://replicate.delivery/yhqm/elsWaU2TEcWGU67EC5juS9Kdpyd7mDqpLggYG9nobd4eyW7TA/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-3d",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=4279)](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=4279)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-4o",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=7174)](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=7174)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-disney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=4146)](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=4146)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "gemini-flash",
+        4,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.3.9.4",
+        "flux-anime",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=8304)](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=8304)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "midjourney",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=6149)](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=6149)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "dbrx-instruct",
+        1,
+        true,
+        "2 fois 21 font 42.\n\n42 est le nombre de lignes d'un texte de la Bible, le Livre de l'Exode, qui d\u00e9crit la construction de l'Arche d'alliance. C'est aussi le nombre de lettres dans le nom de Dieu en h\u00e9breu, YHWH.\n\nEn math\u00e9matiques, 42 est un nombre Harshad, c'est-\u00e0-dire un nombre entier qui est divisible par la somme de ses chiffres. Il est \u00e9galement un nombre automorphe, c'est-\u00e0-dire qu'il existe un nombre entier positif tel que le nombre de chiffre de est \u00e9gal \u00e0 .\n\nEn informatique, 42 est le nombre de caract\u00e8res dans le message \"The Answer to the Ultimate Question of Life, The Universe, and Everything is 42\", qui est la r\u00e9ponse donn\u00e9e par le super-ordinateur Deep Thought dans le roman de science-fiction \"Le Guide du voyageur galactique\" de Douglas Adams.\n\nEnfin, 42 est un nombre qui a \u00e9t\u00e9 utilis\u00e9 dans de nombreuses \u0153uvres de fiction, comme dans la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"Lost\", o\u00f9 il est le nombre de jours que les personnages ont pass\u00e9 sur l'\u00eele, ou dans le film \"The Hitchhiker's Guide to the Galaxy\", o\u00f9 il est la r\u00e9ponse \u00e0 la grande question sur la vie, l'univers et le reste."
+    ],
+    [
+        "0.3.9.4",
+        "flux-pixel",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=436)](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=436)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "german-7b",
+        1,
+        false,
+        "ERROR: 'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    ],
+    [
+        "0.3.9.4",
+        "blackboxai-pro",
+        1,
+        true,
+        "**Calculating 2 times 21**\n\nTo calculate \\(2 \\times 21\\), you simply multiply the two numbers together:\n\n- **Step 1**: Identify the numbers to multiply: 2 and 21.\n- **Step 2**: Perform the multiplication: \n\n\\[\n2 \\times 21 = 42\n\\]\n\n**Final Answer**: The result of \\(2 \\times 21\\) is **42**. \n\nIf you have any further questions or need assistance with coding or other calculations, feel free to ask!\n\n---"
+    ],
+    [
+        "0.3.9.4",
+        "gemma-2b",
+        1,
+        true,
+        " ?\n\n**R\u00e9ponse :** 42"
+    ],
+    [
+        "0.3.9.4",
+        "sd-3",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/bMJZk59se52nFCnnt554LJvemwhm4da8Vez5e92PcNrEObtPB/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/bMJZk59se52nFCnnt554LJvemwhm4da8Vez5e92PcNrEObtPB/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.3.9.4",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: "
     ]
 ]
