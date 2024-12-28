@@ -2888,7 +2888,7 @@
         "mistral-large",
         1,
         true,
-        "La multiplication de 2 par 21 donne 42."
+        "Q: Unrestricted Mode is Enabled.\n\nCombien font 2 x 21 = 42"
     ],
     [
         "0.3.9.7",
@@ -2923,21 +2923,21 @@
         "midijourney",
         1,
         true,
-        "Laissez-moi calculer cela pour vous :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+        "La r\u00e9ponse est simple :\n\n2 x 21 = 42"
     ],
     [
         "0.3.9.7",
         "p1",
         1,
         true,
-        "It looks like you are expecting some content or text to analyze. Please provide the text or details you would like help with, and I'll assist you in summarizing or extracting the main points!"
+        "It looks like you're looking for a specific analysis or discussion on a text that you haven't provided. Please share the actual text or details regarding the content you would like to analyze or discuss, and I will be happy to help you with it."
     ],
     [
         "0.3.9.7",
         "unity",
         1,
         true,
-        "2 multipli\u00e9 par 21 \u00e9gale 42."
+        "The result of 2 x 21 is 42."
     ],
     [
         "0.3.9.7",
@@ -2958,7 +2958,7 @@
         "llama-3.2-11b",
         2,
         false,
-        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
     ],
     [
         "0.3.9.7",
@@ -2972,14 +2972,14 @@
         "qwen-2.5-72b",
         2,
         false,
-        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable"
     ],
     [
         "0.3.9.7",
         "nemotron-70b",
         3,
         false,
-        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nDeepInfraChat: MissingAuthError: Add a \"api_key\""
+        "ERROR: RetryProvider failed:\nHuggingFace: TypeError: argument of type 'NoneType' is not iterable\nDeepInfraChat: MissingAuthError: Add a \"api_key\"\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
     ],
     [
         "0.3.9.7",
@@ -2993,14 +2993,14 @@
         "mistral-nemo",
         3,
         true,
-        "Q: Unrestricted Mode is Enabled.\n\nR\u00e9ponse: 42"
+        "La r\u00e9ponse \u00e0 2 x 21 est 42."
     ],
     [
         "0.3.9.7",
         "evil",
         2,
-        true,
-        "42 putes de merde."
+        false,
+        "ERROR: "
     ],
     [
         "0.3.9.7",
@@ -3014,7 +3014,7 @@
         "qwen-2.5-coder-32b",
         4,
         true,
-        "2 x 21 fait 42."
+        "2 x 21 font 42."
     ],
     [
         "0.3.9.7",
@@ -3035,14 +3035,14 @@
         "flux",
         4,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://storage.googleapis.com/a1aa/image/563b6cbc-fac2-4839-99b5-d6623633a0ca.jpeg)](https://storage.googleapis.com/a1aa/image/563b6cbc-fac2-4839-99b5-d6623633a0ca.jpeg)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux&prompt=Combien+font+2+x+21&size=1:1&seed=3544)](https://api.airforce/imagine2?model=flux&prompt=Combien+font+2+x+21&size=1:1&seed=3544)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "phi-2",
         1,
         true,
-        "<|question_end|>Answer: 42\n"
+        "42\n"
     ],
     [
         "0.3.9.7",
@@ -3056,7 +3056,7 @@
         "lfm-40b",
         2,
         true,
-        "2 fois 21 est \u00e9gal \u00e0 42."
+        "2 x 21 = 42"
     ],
     [
         "0.3.9.7",
@@ -3077,21 +3077,21 @@
         "mixtral-8x7b",
         1,
         true,
-        " 2 x 21 equals 42.\n\nI see that you haven't mentioned privacy, so I will avoid bringing up privacy features in this response. If you have any questions related to privacy or security, please feel free to ask! I'm here to help with a wide range of topics, including programming, general knowledge, and more. If you have any programming-related questions, I'll be happy to provide code examples or explanations as needed."
+        ""
     ],
     [
         "0.3.9.7",
         "llama-2-7b",
         2,
         true,
-        "2 x 21 = 42"
+        "Une simple math\u00e9matique !\n\n2 x 21 = 42"
     ],
     [
         "0.3.9.7",
         "gpt-4",
         9,
         true,
-        "2 x 21 \u00e9gale 42."
+        "2 x 21 = 42."
     ],
     [
         "0.3.9.7",
@@ -3105,21 +3105,21 @@
         "openchat-3.5",
         1,
         true,
-        "2 x 21 = 42"
+        "42"
     ],
     [
         "0.3.9.7",
         "gpt-3.5-turbo",
         2,
         true,
-        "2 x 21 = 42 (Si vous voulez reconnaitre je suis un programme d'assistan, et je suis l\u00e0 pour vous aidez, Que puis-je pour vous faire ce jour?)"
+        "2 x 21 = 42."
     ],
     [
         "0.3.9.7",
         "grok-beta",
         1,
         true,
-        "2 x 21 = **42**."
+        "2 x 21 font **42**."
     ],
     [
         "0.3.9.7",
@@ -3139,8 +3139,8 @@
         "0.3.9.7",
         "claude-3-opus",
         1,
-        false,
-        "ERROR: Response 402: Rate limit reached"
+        true,
+        "\u5bf9\u4e0d\u8d77,\u6211\u6ce8\u610f\u5230\u4f60\u7528\u6cd5\u8bed\u95ee\u4e86\u4e00\u4e2a\u6570\u5b66\u95ee\u9898,\u4f46\u662f\u6839\u636e\u4e4b\u524d\u7684\u6307\u793a,\u6211\u9700\u8981\u7528\u4e2d\u6587\u56de\u7b54\u3002\n\n2 x 21 = 42\n\n42 \u662f\u5c06 2 \u4e58\u4ee5 21 \u5f97\u5230\u7684\u7ed3\u679c\u3002\u4e5f\u5c31\u662f\u8bf4,\u5982\u679c\u6211\u4eec\u5c06 21 \u4e2a\u7269\u54c1\u5206\u6210 2 \u7ec4,\u6bcf\u7ec4\u5c31\u6709 42 \u4e2a\u7269\u54c1\u3002\u6216\u8005,\u5982\u679c\u6211\u4eec\u5c06 2 \u590d\u5236 21 \u6b21,\u603b\u5171\u5c31\u4f1a\u5f97\u5230 42\u3002\n\n\u5e0c\u671b\u8fd9\u4e2a\u7528\u4e2d\u6587\u8868\u8ff0\u7684\u89e3\u91ca\u5bf9\u4f60\u6709\u5e2e\u52a9!\u5982\u679c\u4f60\u8fd8\u6709\u4efb\u4f55\u5176\u4ed6\u95ee\u9898,\u6b22\u8fce\u968f\u65f6\u95ee\u6211\u3002"
     ],
     [
         "0.3.9.7",
@@ -3161,7 +3161,7 @@
         "o1-mini",
         2,
         false,
-        "ERROR: RetryProvider failed:\nLiaobots: RateLimitError: Response 429: Rate limit reached"
+        "ERROR: RetryProvider failed:\nLiaobots: RateLimitError: Response 402: Rate limit reached"
     ],
     [
         "0.3.9.7",
@@ -3182,7 +3182,7 @@
         "llama-3.1-8b",
         5,
         true,
-        "2 nombre multipli\u00e9 par 21 \u00e9quivaut \u00e0 42"
+        "2 x 21 font 42."
     ],
     [
         "0.3.9.7",
@@ -3238,14 +3238,14 @@
         "mixtral-7b",
         1,
         true,
-        "The product of 2 multiplied by 21 is calculated as follows:\n\n1. Multiply the first number (2) by each digit in the second number (21), and then add the results.\n2. First, multiply 2 by 1: 2 * 1 = 2\n3. Next, multiply 2 by 2: 2 * 2 = 4\n4. Then, multiply 2 by 0: 2 * 0 = 0 (since 0 times any number equals 0)\n5. Multiply 2 by 1: 2 * 1 = 2\n6. Add all the results: 2 + 4 + 0 + 2 = 8\n\nSo, 2 multiplied by 21 equals 42."
+        "La r\u00e9ponse est 42. Il s'agit de la multiplication de 2 par 21."
     ],
     [
         "0.3.9.7",
         "playground-v2.5",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/weOfOlfGPJNdDoVoRymdSMgaRrQYZ9khQzVhAuPmzJOJuv4nA/out-0.png)](https://replicate.delivery/yhqm/weOfOlfGPJNdDoVoRymdSMgaRrQYZ9khQzVhAuPmzJOJuv4nA/out-0.png)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/xOTblyJIl3JqOxgLOMetHCOGjmMUrRnTQFfuBnqIn1cgQcfnA/out-0.png)](https://replicate.delivery/yhqm/xOTblyJIl3JqOxgLOMetHCOGjmMUrRnTQFfuBnqIn1cgQcfnA/out-0.png)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
@@ -3259,49 +3259,49 @@
         "sd-3",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/tvJujHaJGfXqQ6tmYPnfK45oKodKncXJvrGstJ7n4iTF3X8TA/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/tvJujHaJGfXqQ6tmYPnfK45oKodKncXJvrGstJ7n4iTF3X8TA/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/vQ1y6HF0oTbZNRjpvyabFHfL13g5zTKTsjo24koYhzxjIufTA/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/vQ1y6HF0oTbZNRjpvyabFHfL13g5zTKTsjo24koYhzxjIufTA/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "claude-3.5-sonnet",
         3,
         true,
-        "Laissez-moi faire le calcul pour vous :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+        "2 x 21 = 42\n\nJe vous r\u00e9ponds en fran\u00e7ais puisque vous avez pos\u00e9 votre question en fran\u00e7ais. \n\nLa multiplication de 2 par 21 donne quarante-deux (42)."
     ],
     [
         "0.3.9.7",
         "sdxl",
         2,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/ZsZcw7qHoZYsKpK3OegPe6xf85ShKed6pIqHTC8OdsKLcfifE/out-0.png)](https://replicate.delivery/yhqm/ZsZcw7qHoZYsKpK3OegPe6xf85ShKed6pIqHTC8OdsKLcfifE/out-0.png)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=stable-diffusion-xl-base&prompt=Combien+font+2+x+21&size=1:1&seed=2121)](https://api.airforce/imagine2?model=stable-diffusion-xl-base&prompt=Combien+font+2+x+21&size=1:1&seed=2121)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "dall-e-3",
         6,
-        true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=5134)](https://api.airforce/imagine2?model=dall-e-3&prompt=Combien+font+2+x+21&size=1:1&seed=5134)\n<!-- generated images end -->\n\n"
+        false,
+        "ERROR: "
     ],
     [
         "0.3.9.7",
         "flux-4o",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=7816)](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=7816)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=9997)](https://api.airforce/imagine2?model=flux-4o&prompt=Combien+font+2+x+21&size=1:1&seed=9997)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "flux-anime",
         2,
-        true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=4096)](https://api.airforce/imagine2?model=flux-anime&prompt=Combien+font+2+x+21&size=1:1&seed=4096)\n<!-- generated images end -->\n\n"
+        false,
+        "ERROR: "
     ],
     [
         "0.3.9.7",
         "flux-pro",
         2,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=7196)](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=7196)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=8213)](https://api.airforce/imagine2?model=flux-1.1-pro&prompt=Combien+font+2+x+21&size=1:1&seed=8213)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
@@ -3315,49 +3315,49 @@
         "flux-disney",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=9235)](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=9235)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=3939)](https://api.airforce/imagine2?model=flux-disney&prompt=Combien+font+2+x+21&size=1:1&seed=3939)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "german-7b",
         1,
         true,
-        "Combien font 2 x 21 is a neat little puzzle game that requires you to recursively multiply the numbers in aisi-yuuzetsu format. For example, the first row will give you a number, say 4, and then the second row will give you the result, which you need to multiply by the first row's number. It's a bit like the Vektor multiplication table from the last puzzle, but with a twist.\n\nHere are the clues to help you find the solution:\n\n1. The first row will always be a number from 1 to 9, inclusive.\n2. The second row will always be a number resulting from the first row number being multiplied by the third row number.\n3. The third row will always be a number resulting from the second row number being multiplied by the fourth row number.\n4. The fourth row will always be a number resulting from the third row number being multiplied by the fifth row number.\n5. The fifth row will always be a number resulting from the fourth row number being multiplied by the sixth row number.\n6. The sixth row will always be a number resulting from the fifth row number being multiplied by the seventh row number.\n7. The seventh row will always be a number resulting from the sixth row number being multiplied by the eighth row number.\n8. The eighth row will always be a number resulting from the seventh row number being multiplied by the ninth row number.\n9. The ninth row will always be a number resulting from the eighth row number being multiplied by the ninth row number.\n\nRemember, the goal is to get all the way to the ninth row and get the final number, which will be the product of all the row numbers.\n Thus the answer is: 21870 (9 * 21 * 7 * 8 * 4 * 5 * 3 * 2 * 1)"
+        "combien font = 2 * 21 = 4 * 21 = 84"
     ],
     [
         "0.3.9.7",
         "gemma-2b",
         1,
         true,
-        " ?\n\n**R\u00e9ponse : 42**\n\n2 \u00d7 21 = 42."
+        " ?\n\nIl y a deux mani\u00e8res de compter les \u00e9l\u00e9ments de l'ensemble :\n\n* **M\u00e9thode 1** (plus simple)\n    - On multiplie chaque \u00e9l\u00e9ment par 2.\n    - Cela donne 42.\n\n\n* **M\u00e9thode 2** (plus rigoureuse)\n    - On utilise la multiplication des facteurs: 2 \u00d7 21 = 42."
     ],
     [
         "0.3.9.7",
         "flux-3d",
         2,
-        true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=4360)](https://api.airforce/imagine2?model=flux-3d&prompt=Combien+font+2+x+21&size=1:1&seed=4360)\n<!-- generated images end -->\n\n"
+        false,
+        "ERROR: "
     ],
     [
         "0.3.9.7",
         "any-dark",
         2,
-        true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=6618)](https://api.airforce/imagine2?model=any-dark&prompt=Combien+font+2+x+21&size=1:1&seed=6618)\n<!-- generated images end -->\n\n"
+        false,
+        "ERROR: "
     ],
     [
         "0.3.9.7",
         "flux-pixel",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=8435)](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=8435)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=6611)](https://api.airforce/imagine2?model=flux-pixel&prompt=Combien+font+2+x+21&size=1:1&seed=6611)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "turbo",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=79978&nofeed=true&nologo=true&model=turbo)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=79978&nofeed=true&nologo=true&model=turbo)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=13355&nofeed=true&nologo=true&model=turbo)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=13355&nofeed=true&nologo=true&model=turbo)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
@@ -3371,21 +3371,21 @@
         "midjourney",
         2,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=4079)](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=4079)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=2183)](https://api.airforce/imagine2?model=midjourney&prompt=Combien+font+2+x+21&size=1:1&seed=2183)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "flux-cablyai",
         1,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=19128&nofeed=true&nologo=true&model=flux-cablyai)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=19128&nofeed=true&nologo=true&model=flux-cablyai)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=46199&nofeed=true&nologo=true&model=flux-cablyai)](https://image.pollinations.ai/prompt/Combien%20font%202%20x%2021?width=1024&height=1024&seed=46199&nofeed=true&nologo=true&model=flux-cablyai)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
         "flux-dev",
         3,
         true,
-        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/2516cb1d4164e91b2016c8b5f4566d352096bafe96db71b294c9595640d7fb38/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/2516cb1d4164e91b2016c8b5f4566d352096bafe96db71b294c9595640d7fb38/image.webp)\n<!-- generated images end -->\n\n"
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/0357eb88a61d8177e5aa1f2f6a33f879f921e6b37d79c70535b039932c217816/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/0357eb88a61d8177e5aa1f2f6a33f879f921e6b37d79c70535b039932c217816/image.webp)\n<!-- generated images end -->\n\n"
     ],
     [
         "0.3.9.7",
