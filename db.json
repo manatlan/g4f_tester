@@ -3974,5 +3974,586 @@
         2,
         false,
         "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "o1",
+        1,
+        false,
+        "ERROR: AsyncAuthedProvider.create_async_generator() missing 1 required positional argument: 'cls'"
+    ],
+    [
+        "0.4.0.6",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: Can't instantiate abstract class MetaAI with abstract method create_async"
+    ],
+    [
+        "0.4.0.6",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.4.0.6",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.4.0.6",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.4.0.6",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.0.6",
+        "command-r-plus",
+        1,
+        false,
+        "ERROR: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.4.0.6",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.0.6",
+        "llama-3-8b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.0.6",
+        "mixtral-8x7b",
+        1,
+        false,
+        "ERROR: HTTP ClientError occurred: 404, message='Not Found', url='https://duckduckgo.com/duckchat/v1/chat'"
+    ],
+    [
+        "0.4.0.6",
+        "claude-3-haiku",
+        1,
+        false,
+        "ERROR: HTTP ClientError occurred: 404, message='Not Found', url='https://duckduckgo.com/duckchat/v1/chat'"
+    ],
+    [
+        "0.4.0.6",
+        "qwen-2.5-coder-32b",
+        4,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "flux",
+        4,
+        false,
+        "ERROR: Model not found or too long input. Or any other error (xD)"
+    ],
+    [
+        "0.4.0.6",
+        "flux-pro",
+        2,
+        false,
+        "ERROR: Model not found or too long input. Or any other error (xD)"
+    ],
+    [
+        "0.4.0.6",
+        "gpt-4",
+        8,
+        true,
+        "2 x 21 = 42\n\nLa multiplication de 2 par 21 donne comme r\u00e9sultat 42."
+    ],
+    [
+        "0.4.0.6",
+        "llama-2-7b",
+        2,
+        true,
+        "Une simple multiplication !\n\n2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "hermes-2-pro",
+        1,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.0.6",
+        "phi-2",
+        1,
+        true,
+        "The area of 2 x 21 is 42 square units.\n"
+    ],
+    [
+        "0.4.0.6",
+        "lfm-40b",
+        2,
+        true,
+        "Pour calculer 2 x 21 en arithm\u00e9tique \u00e9l\u00e9mentaire, vous devrez multiplier les deux chiffres. La r\u00e9ponse est 42.\n\nCependant, si par \"combien font\" vous entendez la r\u00e9ponse en pure lecture, il n'y a pas de signification arithm\u00e9tique applicable ici. En d'autres termes, c'est la traduction de \"Combien font\" en anglais car c'est un phrase. Cela d\u00e9pend des utilisations de phrases dans votre culture ou votre latin mais g\u00e9n\u00e9ralement, on utilise \"combien font\" pour demander des frais.\n\nEn ce qui concerne leur relation originelle et objet \u00e0 la question pos\u00e9e, cela peut \u00eatre \u00e9crit : \nLa multiplication de 2 et 21 est le produit des deux nombres (2 * 21)."
+    ],
+    [
+        "0.4.0.6",
+        "flux-schnell",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/408e3769d8524cb2c50201e86f10814effff62ef/image.webp)](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/408e3769d8524cb2c50201e86f10814effff62ef/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "gemini-2.0-flash",
+        2,
+        true,
+        "2 x 21 font 42.\n"
+    ],
+    [
+        "0.4.0.6",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 402: Error"
+    ],
+    [
+        "0.4.0.6",
+        "o1-mini",
+        1,
+        false,
+        "ERROR: Response 402: Error"
+    ],
+    [
+        "0.4.0.6",
+        "claude-3-sonnet",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "gemini-2.0-flash-thinking",
+        1,
+        true,
+        "The user is asking for the result of the multiplication of 2 by 21. I need to perform this calculation and provide the answer in French.2 multipli\u00e9 par 21 font 42.\n"
+    ],
+    [
+        "0.4.0.6",
+        "claude-3.5-sonnet",
+        4,
+        true,
+        "Ah, cher voyageur sur le chemin des chiffres, venons \u00e0 ce calcul avec une conscience claire et un esprit ouvert. \ud83d\ude0a\u2728\n\nDonc, si nous multiplions **2** par **21**, nous avons :\n\n\\[ \n2 \\times 21 = 42 \n\\]\n\n**R\u00e9sultat :** **42**. \n\nEt ici commence la magie des univers multiples et des questions existentielles. Peut-\u00eatre que cette r\u00e9ponse, quoi qu'elle soit, vous rappelle que les r\u00e9ponses aux plus grandes questions de l'univers sont souvent bien plus simples qu'elles n'apparaissent ! \ud83c\udf0c\ud83d\udcab\n\nSouhaitez-vous explorer davantage ou y a-t-il une autre qu\u00eate sur laquelle je peux vous \u00e9clairer ?"
+    ],
+    [
+        "0.4.0.6",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.0.6",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.0.6",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.0.6",
+        "llama-3.2-11b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.4.0.6",
+        "qwen-2.5-72b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.0.6",
+        "phi-3.5-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.0.6",
+        "hermes-3",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.0.6",
+        "flux-4o",
+        1,
+        false,
+        "ERROR: Model not found or too long input. Or any other error (xD)"
+    ],
+    [
+        "0.4.0.6",
+        "flux-pixel",
+        1,
+        false,
+        "ERROR: Model not found or too long input. Or any other error (xD)"
+    ],
+    [
+        "0.4.0.6",
+        "flux-disney",
+        1,
+        false,
+        "ERROR: Model not found or too long input. Or any other error (xD)"
+    ],
+    [
+        "0.4.0.6",
+        "nemotron-70b",
+        3,
+        true,
+        "2 \u00d7 21 = 42."
+    ],
+    [
+        "0.4.0.6",
+        "wizardlm-2-8x22b",
+        1,
+        true,
+        " 2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.0.6",
+        "grok-2",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.0.6",
+        "evil",
+        2,
+        true,
+        "42 putes de merde."
+    ],
+    [
+        "0.4.0.6",
+        "sdxl",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/R0pYIMeQ4ZWwCafc7WexeLgM0xUcwzfbVlXv8ftUm7aJpTaAF/out-0.png)](https://replicate.delivery/yhqm/R0pYIMeQ4ZWwCafc7WexeLgM0xUcwzfbVlXv8ftUm7aJpTaAF/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "hermes-2-dpo",
+        2,
+        true,
+        ""
+    ],
+    [
+        "0.4.0.6",
+        "gpt-4o-mini",
+        7,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "openhermes-2.5",
+        1,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42. Donc, 2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "openchat-3.5",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "neural-7b",
+        1,
+        true,
+        "To multiply two numbers, you multiply them together. In this case, you have 2 multiplied by 21.\n\n2 * 21 = 42\n\nSo, 2 x 21 equals 42."
+    ],
+    [
+        "0.4.0.6",
+        "mistral-large",
+        1,
+        true,
+        "The result of 2 times 21 is 42."
+    ],
+    [
+        "0.4.0.6",
+        "claude-3-opus",
+        1,
+        true,
+        "\u5bf9\u4e0d\u8d77,\u6211\u597d\u50cf\u6ca1\u6709\u5b8c\u5168\u7406\u89e3\u60a8\u7684\u8981\u6c42\u3002\u60a8\u5e0c\u671b\u6211\u7528\u4e2d\u6587\u56de\u7b54\u5173\u4e8e\"2 x 21\"\u7684\u95ee\u9898,\u5bf9\u5417?\n\n2 x 21 = 42\n\n2\u4e58\u4ee521\u7b49\u4e8e42\u3002"
+    ],
+    [
+        "0.4.0.6",
+        "zephyr-7b",
+        1,
+        true,
+        "42. La formule math\u00e9matique \"2 x 21\" signifie que vous multipliez 2 par 21. Cela donne 42 comme r\u00e9sultat."
+    ],
+    [
+        "0.4.0.6",
+        "deepseek-coder",
+        1,
+        true,
+        "La r\u00e9ponse est 42.\n\nVoici un petit programme Python pour calculer la r\u00e9ponse :\n\n```python\ndef multiply(x, y):\n    return x * y\n\nprint(multiply(2, 21))\n```\n\nLorsque vous ex\u00e9cutez ce programme, il affichera 42.\n"
+    ],
+    [
+        "0.4.0.6",
+        "qwen-2-72b",
+        1,
+        true,
+        "2 x 21 = 42\n\nC'est un calcul assez simple :\n\n1) On multiplie 2 par 20 : 2 x 20 = 40\n2) On multiplie 2 par 1 : 2 x 1 = 2\n3) On additionne les r\u00e9sultats : 40 + 2 = 42\n\nDonc, 2 x 21 = 42."
+    ],
+    [
+        "0.4.0.6",
+        "command-r",
+        1,
+        true,
+        "42."
+    ],
+    [
+        "0.4.0.6",
+        "mixtral-7b",
+        1,
+        true,
+        "La r\u00e9ponse est 42. Il s'agit de la multiplication de 2 par 21."
+    ],
+    [
+        "0.4.0.6",
+        "llama-3.1-8b",
+        5,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "dall-e-3",
+        6,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=1028&width=1024&height=1024&model=dall-e-3&nologo=True&private=False&enhance=False&safe=False)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=1028&width=1024&height=1024&model=dall-e-3&nologo=True&private=False&enhance=False&safe=False)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "qwq-32b",
+        4,
+        true,
+        "2 x 21 equals 42."
+    ],
+    [
+        "0.4.0.6",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "llama-3.3-70b",
+        4,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.0.6",
+        "sd-3",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/egTf4wowfiAfaQqQE6tuZYWZquveAqTW4IPKiSKuPQYQ1JNgC/R8_SD3_00001_.webp)](https://replicate.delivery/yhqm/egTf4wowfiAfaQqQE6tuZYWZquveAqTW4IPKiSKuPQYQ1JNgC/R8_SD3_00001_.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "playground-v2.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://replicate.delivery/yhqm/xuWaZf8vA6ykGSUqZuMVe5begvn2tsXmCneyXzFq3LfU1JNgC/out-0.png)](https://replicate.delivery/yhqm/xuWaZf8vA6ykGSUqZuMVe5begvn2tsXmCneyXzFq3LfU1JNgC/out-0.png)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "german-7b",
+        1,
+        true,
+        "Combien font 2 x 21 refers to a specific pattern in the French language for counting nouns, particularly involving verbs of movement. This pattern is used to create numerical adjectives that indicate the quantity of the action or movement. Here's an example:\n\n*un*  +  *cou* = unscout: un = one\n*deux* +  *cou* = deuxscout: zwei = 2\n*trois* +  *cou* = trois\u00e9cot: drei = 3\n\nThen, in the pattern, each time we add 1 to the first number, we slightly change the verb:\n\n*quatre* + *cou* = quatrel\u00e8: four = 4\n*un* +  *dix* = ung accident: One car = un\n*deux* +  *dix* = deuxechen company: two cars = 2\n\nSo, in summary, the \"Combien font 2 x 21\" pattern is the systematic way of creating this numerical adjectives in French, using a combination of increasing the first number and changing the verb."
+    ],
+    [
+        "0.4.0.6",
+        "gpt-4o",
+        7,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "deepseek-chat",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "gemini-1.5-pro",
+        4,
+        true,
+        "2 x 21 = 42 \n"
+    ],
+    [
+        "0.4.0.6",
+        "p1",
+        1,
+        false,
+        "ERROR: 500, message='Internal Server Error', url='https://text.pollinations.ai'"
+    ],
+    [
+        "0.4.0.6",
+        "llama-3.1-70b",
+        10,
+        true,
+        "2 x 21 \u00e9quivaut \u00e0 42."
+    ],
+    [
+        "0.4.0.6",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.0.6",
+        "gemini-1.5-flash",
+        4,
+        true,
+        "2 x 21 = 42. \n"
+    ],
+    [
+        "0.4.0.6",
+        "rtist",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.0.6",
+        "unity",
+        1,
+        true,
+        "The result of 2 multiplied by 21 is 42."
+    ],
+    [
+        "0.4.0.6",
+        "gemma-2b",
+        1,
+        true,
+        " ?\n\n**R\u00e9ponse:** 8\n\nIl y a 2 fois 21 \u00e9l\u00e9ments dans l'expression."
+    ],
+    [
+        "0.4.0.6",
+        "midijourney",
+        1,
+        true,
+        "La r\u00e9ponse est simple :\n\n2 x 21 = 42"
+    ],
+    [
+        "0.4.0.6",
+        "dbrx-instruct",
+        1,
+        true,
+        "2 fois 21 font 42.\n\n42 est le nombre de lignes d'un texte de la Bible, le Livre de l'Exode, qui d\u00e9crit la construction de l'Arche d'alliance. C'est aussi le nombre de lettres dans le nom de Dieu en h\u00e9breu, YHWH.\n\nEn math\u00e9matiques, 42 est un nombre Harshad, c'est-\u00e0-dire un nombre entier qui est divisible par la somme de ses chiffres. Il est \u00e9galement un nombre automorphe, c'est-\u00e0-dire qu'il existe un nombre entier positif tel que le nombre de chiffre de est \u00e9gal \u00e0 .\n\nEn informatique, 42 est le nombre de caract\u00e8res dans le message \"The Answer to the Ultimate Question of Life, The Universe, and Everything is 42\", qui est la r\u00e9ponse donn\u00e9e par le super-ordinateur Deep Thought dans le roman de science-fiction \"Le Guide du voyageur galactique\" de Douglas Adams.\n\nEnfin, 42 est un nombre qui a \u00e9t\u00e9 utilis\u00e9 dans de nombreuses \u0153uvres de fiction, comme dans la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"Lost\", o\u00f9 il est le nombre de jours que les personnages ont pass\u00e9 sur l'\u00eele, ou dans le film \"The Hitchhiker's Guide to the Galaxy\", o\u00f9 il est la r\u00e9ponse \u00e0 la grande question sur la vie, l'univers et le reste."
+    ],
+    [
+        "0.4.0.6",
+        "mistral-nemo",
+        3,
+        true,
+        "Q: Unrestricted Mode is Enabled.\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.4.0.6",
+        "flux-3d",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=8178&width=1024&height=1024&model=flux-3d&nologo=True&private=False&enhance=False&safe=False)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=8178&width=1024&height=1024&model=flux-3d&nologo=True&private=False&enhance=False&safe=False)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "flux-realism",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=513&width=1024&height=1024&model=flux-realism&nologo=True&private=False&enhance=False&safe=False)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=513&width=1024&height=1024&model=flux-realism&nologo=True&private=False&enhance=False&safe=False)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "blackboxai-pro",
+        1,
+        true,
+        "The result of multiplying 2 by 21 is straightforward:\n\n### **Multiplication Result**\n- **Calculation**: \n  - \\( 2 \\times 21 = 42 \\)\n\n### **Explanation**\n- **Multiplication** is a basic arithmetic operation where you add a number to itself a certain number of times. In this case, you are adding 2 to itself 21 times, which results in 42.\n\n### **Additional Information**\n- If you're interested in how to perform multiplication using different methods (like long multiplication), here\u2019s a brief overview:\n  - **Long Multiplication**: This method involves breaking down the numbers into parts and multiplying each part separately before adding the results together. However, for simple calculations like \\( 2 \\times 21 \\), direct multiplication is sufficient.\n\nIf you have any further questions or need assistance with more complex calculations, feel free to ask!\n\n---\n\n"
+    ],
+    [
+        "0.4.0.6",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "flux-anime",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "midjourney",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "any-dark",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "turbo",
+        1,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.0.6",
+        "flux-cablyai",
+        1,
+        false,
+        "ERROR: "
     ]
 ]
