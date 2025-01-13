@@ -6256,5 +6256,551 @@
         1,
         false,
         "ERROR: "
+    ],
+    [
+        "0.4.1.0",
+        "o1",
+        1,
+        false,
+        "ERROR: object async_generator can't be used in 'await' expression"
+    ],
+    [
+        "0.4.1.0",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.4.1.0",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" package | pip install -U nodriver"
+    ],
+    [
+        "0.4.1.0",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.1.0",
+        "command-r-plus",
+        1,
+        false,
+        "ERROR: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.4.1.0",
+        "flux-anime",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "llama-2-7b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nCloudflare: AttributeError: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.1.0",
+        "lfm-40b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.1.0",
+        "flux-3d",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "flux-pro",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "flux-realism",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "midjourney",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3-8b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.1.0",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.1.0",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.1.0",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.1.0",
+        "any-dark",
+        2,
+        false,
+        "ERROR: No provider found"
+    ],
+    [
+        "0.4.1.0",
+        "dall-e-3",
+        6,
+        false,
+        "ERROR: RetryProvider failed:\nCopilotAccount: MissingRequirementsError: Install or update \"curl_cffi\" package | pip install -U curl_cffi\nBingCreateImages: MissingAuthError: Missing \"_U\" cookie\nMicrosoftDesigner: NoValidHarFileError: har_and_cookies dir is not readable\nOpenaiAccount: TypeError: object async_generator can't be used in 'await' expression"
+    ],
+    [
+        "0.4.1.0",
+        "flux-cablyai",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.4.1.0",
+        "playground-v2.5",
+        1,
+        false,
+        "ERROR: Response 404: The page could not be found\n\nNOT_FOUND\n"
+    ],
+    [
+        "0.4.1.0",
+        "sdxl",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nReplicateHome: ResponseStatusError: Response 404: The page could not be found\n\nNOT_FOUND\n"
+    ],
+    [
+        "0.4.1.0",
+        "sd-3",
+        1,
+        false,
+        "ERROR: Response 404: The page could not be found\n\nNOT_FOUND\n"
+    ],
+    [
+        "0.4.1.0",
+        "phi-3.5-mini",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.4.1.0",
+        "hermes-3",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nAutonomousAI: KeyError: 'hermes-3'"
+    ],
+    [
+        "0.4.1.0",
+        "gemma-2b",
+        1,
+        false,
+        "ERROR: Response 404: The page could not be found\n\nNOT_FOUND\n"
+    ],
+    [
+        "0.4.1.0",
+        "turbo",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.4.1.0",
+        "nemotron-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}\nDeepInfraChat: ResponseStatusError: Response 403: {\"detail\":{\"error\":\"Not authenticated\"}}\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi"
+    ],
+    [
+        "0.4.1.0",
+        "gpt-4o-mini",
+        9,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.3-70b",
+        7,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.1.0",
+        "cably-80b",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.1.0",
+        "flux",
+        4,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://storage.googleapis.com/a1aa/image/35ff1736-16fb-4a2b-8f00-ac391f42729f.jpeg)](https://storage.googleapis.com/a1aa/image/35ff1736-16fb-4a2b-8f00-ac391f42729f.jpeg)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.1.0",
+        "gemini-2.0-flash-thinking",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.1.0",
+        "claude-3-haiku",
+        2,
+        true,
+        "https://discord.gg/qXfu24JmsB - Free AI server, gpt-4o, claude-3.5-sonnet, o1, ...\n\n$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.4.1.0",
+        "mixtral-8x7b",
+        2,
+        true,
+        "2 x 21 equals 42."
+    ],
+    [
+        "0.4.1.0",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.4.1.0",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.1.0",
+        "gpt-4",
+        10,
+        true,
+        "2 x 21 = **42**."
+    ],
+    [
+        "0.4.1.0",
+        "grok-2",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.1.0",
+        "gemini-1.5-flash",
+        5,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.4.1.0",
+        "glm-4",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.1.0",
+        "flux-schnell",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/6881b650da7efa44e88bd6f8b011ad6db5de5a97/image.webp)](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/6881b650da7efa44e88bd6f8b011ad6db5de5a97/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.1.0",
+        "deepseek-chat",
+        3,
+        true,
+        "o1-preview now available for FREE https://discord.gg/qXfu24JmsB\n\n2 x 21 fait 42."
+    ],
+    [
+        "0.4.1.0",
+        "gemini-2.0-flash",
+        2,
+        true,
+        "2 x 21 font 42.\n"
+    ],
+    [
+        "0.4.1.0",
+        "wizardlm-2-8x22b",
+        2,
+        true,
+        "https://discord.gg/qXfu24JmsB - Free AI server, gpt-4o, claude-3.5-sonnet, o1, ...\n\n"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.2-90b",
+        2,
+        true,
+        "Join for free unlimited AI usage https://discord.gg/qXfu24JmsB\n\n"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.2-11b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.1-8b",
+        6,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.4.1.0",
+        "gemini-1.5-pro",
+        5,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.4.1.0",
+        "gemini",
+        2,
+        true,
+        "https://discord.gg/qXfu24JmsB - Free AI server, gpt-4o, claude-3.5-sonnet, o1, ...\n\n2 x 21 = 42."
+    ],
+    [
+        "0.4.1.0",
+        "o1-mini",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale **42**."
+    ],
+    [
+        "0.4.1.0",
+        "qwen-2.5-72b",
+        2,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.4.1.0",
+        "claude-3-sonnet",
+        1,
+        true,
+        "Pour calculer 2 x 21, on peut proc\u00e9der de la fa\u00e7on suivante :\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 x 21 = 42"
+    ],
+    [
+        "0.4.1.0",
+        "mixtral-7b",
+        1,
+        true,
+        "La r\u00e9ponse est 42. Il s'agit de la multiplication de 2 par 21."
+    ],
+    [
+        "0.4.1.0",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.1.0",
+        "gpt-4o",
+        9,
+        true,
+        "Quelle est la question sp\u00e9cifique que vous voulez que je vous aide \u00e0 r\u00e9soudre ?"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.1-70b",
+        10,
+        true,
+        "**Calcul de 2 x 21**\n\n- Pour effectuer la multiplication :\n  \n  \\[\n  2 \\times 21 = 42\n  \\]\n\n**R\u00e9ponse finale**\n\n- **2 x 21 = 42**"
+    ],
+    [
+        "0.4.1.0",
+        "dbrx-instruct",
+        1,
+        true,
+        "2 fois 21 font 42.\n\n42 est le nombre de lignes d'un texte de la Bible, le Livre de l'Exode, qui d\u00e9crit la construction de l'Arche d'alliance. C'est aussi le nombre de lettres dans le nom de Dieu en h\u00e9breu, YHWH.\n\nEn math\u00e9matiques, 42 est un nombre Harshad, c'est-\u00e0-dire un nombre entier qui est divisible par la somme de ses chiffres. Il est \u00e9galement un nombre automorphe, c'est-\u00e0-dire qu'il existe un nombre entier positif tel que le nombre de chiffre de est \u00e9gal \u00e0 .\n\nEn informatique, 42 est le nombre de caract\u00e8res dans le message \"The Answer to the Ultimate Question of Life, The Universe, and Everything is 42\", qui est la r\u00e9ponse donn\u00e9e par le super-ordinateur Deep Thought dans le roman de science-fiction \"Le Guide du voyageur galactique\" de Douglas Adams.\n\nEnfin, 42 est un nombre qui a \u00e9t\u00e9 utilis\u00e9 dans de nombreuses \u0153uvres de fiction, comme dans la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"Lost\", o\u00f9 il est le nombre de jours que les personnages ont pass\u00e9 sur l'\u00eele, ou dans le film \"The Hitchhiker's Guide to the Galaxy\", o\u00f9 il est la r\u00e9ponse \u00e0 la grande question sur la vie, l'univers et le reste."
+    ],
+    [
+        "0.4.1.0",
+        "claude-3.5-sonnet",
+        5,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.1.0",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.1.0",
+        "hermes-2-dpo",
+        2,
+        true,
+        "2 x 21 = 42\n\nDonc, 2 multipli\u00e9 par 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.1.0",
+        "qwq-32b",
+        5,
+        true,
+        "2 x 21 equals 42."
+    ],
+    [
+        "0.4.1.0",
+        "evil",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nPollinationsAI: ClientResponseError: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "mistral-large",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.2-3b",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "command-r",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "p1",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "midijourney",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "rtist",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "unity",
+        1,
+        false,
+        "ERROR: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "qwen-2-72b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nPollinationsAI: ClientResponseError: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'\nDeepInfraChat: ResponseStatusError: Response 403: {\"detail\":{\"error\":\"Not authenticated\"}}"
+    ],
+    [
+        "0.4.1.0",
+        "mistral-nemo",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"Please log in or use a HF access token\"}\nPollinationsAI: ClientResponseError: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'"
+    ],
+    [
+        "0.4.1.0",
+        "qwen-2.5-coder-32b",
+        5,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"curl_cffi\" package | pip install -U curl_cffi\nPollinationsAI: ClientResponseError: 504, message='Gateway Timeout', url='https://text.pollinations.ai/'\nAutonomousAI: KeyError: 'qwen-2.5-coder-32b'\nDeepInfraChat: ResponseStatusError: Response 403: {\"detail\":{\"error\":\"Not authenticated\"}}"
+    ],
+    [
+        "0.4.1.0",
+        "sd-3.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/41426cb347eb86208cef770be141c69f94efabf8f6eb7bf0e57f51db045d54a4/image.webp)](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/41426cb347eb86208cef770be141c69f94efabf8f6eb7bf0e57f51db045d54a4/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.1.0",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.1.0",
+        "llama-3.1-405b",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.1.0",
+        "claude-3-opus",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.4.1.0",
+        "blackboxai-pro",
+        1,
+        false,
+        "ERROR: "
     ]
 ]
