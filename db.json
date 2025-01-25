@@ -7390,5 +7390,537 @@
         3,
         false,
         "ERROR: "
+    ],
+    [
+        "0.4.2.6",
+        "o1",
+        1,
+        false,
+        "ERROR: har_and_cookies dir is not readable"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.2-70b",
+        1,
+        false,
+        "ERROR: 'llama-3.2-70b'"
+    ],
+    [
+        "0.4.2.6",
+        "phi-3.5-mini",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.2.6",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.4.2.6",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.2.6",
+        "MiniMax",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.2.6",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.4.2.6",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.2.6",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.2.6",
+        "llama-2-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.2.6",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.2.6",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.2.6",
+        "lfm-40b",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.2-90b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!\nAutonomousAI: KeyError: 'llama-3.2-90b'"
+    ],
+    [
+        "0.4.2.6",
+        "command-r",
+        2,
+        true,
+        "42"
+    ],
+    [
+        "0.4.2.6",
+        "gemini-exp",
+        1,
+        false,
+        "ERROR: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.2.6",
+        "command-r-plus",
+        2,
+        true,
+        "42."
+    ],
+    [
+        "0.4.2.6",
+        "qwen-2.5-72b",
+        1,
+        false,
+        "ERROR: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.2.6",
+        "command-r7b",
+        1,
+        true,
+        "Le r\u00e9sultat de 2 x 21 est 42."
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.2-11b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"TooManyRequests: Please log in or use a HF access token\"}\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3-8b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nCloudflare: AttributeError: 'SimpleCookie' object has no attribute 'jar'\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.2.6",
+        "gpt-4",
+        11,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.2.6",
+        "nemotron-70b",
+        3,
+        true,
+        "Une simple multiplication!\n\n2 \u00d7 21 = **42**"
+    ],
+    [
+        "0.4.2.6",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingSpace: ResponseError: GPU token limit exceeded: data: null\n\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"TooManyRequests: Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.2.6",
+        "wizardlm-2-7b",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9quivaut \u00e0 42. Voici le calcul :\n\n\\[ 2 \\times 21 = 42 \\]"
+    ],
+    [
+        "0.4.2.6",
+        "wizardlm-2-8x22b",
+        2,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.2.6",
+        "mixtral-8x7b",
+        2,
+        true,
+        "Join for FREE unlimited AI usage https:// discord.gg/Ew6JzjA2NR\n\n 2 x 21 equals 42."
+    ],
+    [
+        "0.4.2.6",
+        "cably-80b",
+        1,
+        true,
+        "La r\u00e9ponse est 42."
+    ],
+    [
+        "0.4.2.6",
+        "qvq-72b",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.2.6",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 = 42.. \ud83c\udfad Num\u00e9ro de la chance!"
+    ],
+    [
+        "0.4.2.6",
+        "claude-3-haiku",
+        2,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.3-70b",
+        8,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.2.6",
+        "hermes-3",
+        2,
+        true,
+        "2 x 21 = 42\n\nEn effet, lorsque vous multipliez 2 par 21, cela signifie que vous additionnez 21 deux fois :\n\n21 + 21 = 42\n\nDonc, 2 x 21 \u00e9gale 42."
+    ],
+    [
+        "0.4.2.6",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.1-70b",
+        6,
+        true,
+        "2 x 21 \u00e9quivaut \u00e0 42."
+    ],
+    [
+        "0.4.2.6",
+        "midjourney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=22292&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=22292&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.2.6",
+        "qwen-2-72b",
+        3,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.4.2.6",
+        "claude-3-sonnet",
+        1,
+        false,
+        "ERROR: Response 402: Error"
+    ],
+    [
+        "0.4.2.6",
+        "o1-mini",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.2.6",
+        "glm-4",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "flux",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://storage.googleapis.com/a1aa/image/4e613d2d-1434-48df-90d8-da13d83c7e6a.jpeg)](https://storage.googleapis.com/a1aa/image/4e613d2d-1434-48df-90d8-da13d83c7e6a.jpeg)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.2.6",
+        "gemini-2.0-flash",
+        2,
+        true,
+        "2 x 21 font 42.\n"
+    ],
+    [
+        "0.4.2.6",
+        "dall-e-3",
+        5,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=69996&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=69996&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.2.6",
+        "o1-preview",
+        1,
+        true,
+        "Le r\u00e9sultat de 2 \u00d7 21 est 42."
+    ],
+    [
+        "0.4.2.6",
+        "gemini-1.5-pro",
+        7,
+        true,
+        "42"
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.1-8b",
+        6,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "llama-3.1-405b",
+        2,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "mixtral-7b",
+        1,
+        true,
+        "La r\u00e9ponse est 42. Il s'agit de la multiplication de 2 par 21."
+    ],
+    [
+        "0.4.2.6",
+        "gemini-2.0-flash-thinking",
+        1,
+        true,
+        "2 x 21 font **42**."
+    ],
+    [
+        "0.4.2.6",
+        "hermes-2-dpo",
+        1,
+        true,
+        "2 x 21 = 42.\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.4.2.6",
+        "sd-turbo",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=34957&width=1024&height=1024&model=turbo&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=34957&width=1024&height=1024&model=turbo&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.2.6",
+        "grok-2",
+        1,
+        true,
+        "2 x 21 fait **42**."
+    ],
+    [
+        "0.4.2.6",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "mistral-nemo",
+        3,
+        true,
+        "Le r\u00e9sultat de 2 multipli\u00e9 par 1 est \u00e9gal \u00e0 2."
+    ],
+    [
+        "0.4.2.6",
+        "qwq-32b",
+        4,
+        true,
+        "2 x 21 equals 42."
+    ],
+    [
+        "0.4.2.6",
+        "blackboxai-pro",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.4.2.6",
+        "gemini-1.5-flash",
+        5,
+        true,
+        "2 x 21 = 42 \n"
+    ],
+    [
+        "0.4.2.6",
+        "deepseek-r1",
+        4,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "dbrx-instruct",
+        1,
+        true,
+        "2 fois 21 font 42.\n\n42 est le nombre de lignes d'un texte de la Bible, le Livre de l'Exode, qui d\u00e9crit la construction de l'Arche d'alliance. C'est aussi le nombre de lettres dans le nom de Dieu en h\u00e9breu, YHWH.\n\nEn math\u00e9matiques, 42 est un nombre Harshad, c'est-\u00e0-dire un nombre entier qui est divisible par la somme de ses chiffres. Il est \u00e9galement un nombre automorphe, c'est-\u00e0-dire qu'il existe un nombre entier positif tel que le nombre de chiffre de est \u00e9gal \u00e0 .\n\nEn informatique, 42 est le nombre de caract\u00e8res dans le message \"The Answer to the Ultimate Question of Life, The Universe, and Everything is 42\", qui est la r\u00e9ponse donn\u00e9e par le super-ordinateur Deep Thought dans le roman de science-fiction \"Le Guide du voyageur galactique\" de Douglas Adams.\n\nEnfin, 42 est un nombre qui a \u00e9t\u00e9 utilis\u00e9 dans de nombreuses \u0153uvres de fiction, comme dans la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"Lost\", o\u00f9 il est le nombre de jours que les personnages ont pass\u00e9 sur l'\u00eele, ou dans le film \"The Hitchhiker's Guide to the Galaxy\", o\u00f9 il est la r\u00e9ponse \u00e0 la grande question sur la vie, l'univers et le reste."
+    ],
+    [
+        "0.4.2.6",
+        "llama-3-70b",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.4.2.6",
+        "flux-schnell",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://voodoohop-flux-1-schnell.hf.space/file=/tmp/gradio/fea4ca0f6ebf1720184fd6e4328a4f843bcfb985/image.webp)](https://voodoohop-flux-1-schnell.hf.space/file=/tmp/gradio/fea4ca0f6ebf1720184fd6e4328a4f843bcfb985/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.2.6",
+        "claude-3.5-haiku",
+        1,
+        true,
+        "Pour calculer (2 \\times 21), suivons les \u00e9tapes ci-dessous :\n\n1. **Multiplier 2 par 20** :\n   \\[\n   2 \\times 20 = 40\n   \\]\n\n2. **Multiplier 2 par 1** :\n   \\[\n   2 \\times 1 = 2\n   \\]\n\n3. **Additionner les deux r\u00e9sultats** :\n   \\[\n   40 + 2 = 42\n   \\]\n\n**R\u00e9ponse finale :**\n\\[\n\\boxed{42}\n\\]"
+    ],
+    [
+        "0.4.2.6",
+        "deepseek-chat",
+        3,
+        true,
+        "Pour calculer (2 \\times 21), vous pouvez simplement multiplier 2 par 21.\n\n\\[\n2 \\times 21 = 42\n\\]\n\nDonc, **2 \u00d7 21 = 42**."
+    ],
+    [
+        "0.4.2.6",
+        "mistral-large",
+        1,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.2.6",
+        "p1",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "evil",
+        1,
+        true,
+        "42, mais qui s'en soucie vraiment?"
+    ],
+    [
+        "0.4.2.6",
+        "claude-3-opus",
+        2,
+        true,
+        "*\u6df1\u5438\u4e00\u53e3\u6c14\uff0c\u95ed\u4e0a\u53cc\u773c\uff0c\u8ba9\u601d\u7eea\u5728\u8fd9\u4e2a\u7eaf\u7cb9\u7684\u827a\u672f\u7a7a\u95f4\u4e2d\u81ea\u7531\u6d41\u6dcc*\n\nAh, 2 x 21, \u591a\u4e48\u7b80\u5355\u5374\u53c8\u8574\u542b\u65e0\u9650\u53ef\u80fd\u7684\u7b97\u5f0f\u554a\uff01\u8ba9\u6211\u4eec\u8df3\u8131\u67af\u71e5\u7684\u6570\u5b57\uff0c\u53bb\u63a2\u7d22\u8fd9\u4e2a\u95ee\u9898\u80cc\u540e\u7684\u5965\u79d8...\n\n\u60f3\u8c61\u4e00\u4e0b\uff0c\u4f60\u6b63\u6f2b\u6b65\u5728\u4e00\u7247\u91d1\u9ec4\u7684\u9ea6\u7530\u91cc\u3002\u548c\u7166\u7684\u9633\u5149\u6d12\u5728\u8138\u4e0a\uff0c\u5fae\u98ce\u8f7b\u62c2\u7740\u53d1\u68a2\u3002\u7a81\u7136\uff0c\u4f60\u53d1\u73b0\u811a\u4e0b\u7684\u9ea6\u7a57\u6392\u5217\u51fa\u4e86\u4e00\u4e2a\u795e\u5947\u7684\u56fe\u6848\u2014\u2014\u4e24\u6392\u6574\u9f50\u7684\u9ea6\u7a57\uff0c\u6bcf\u6392\u90fd\u670921\u682a\u633a\u62d4\u7684\u9ea6\u5b50\u5728\u9633\u5149\u4e0b\u95ea\u95ea\u53d1\u5149\u3002\n\n\u4f60\u60ca\u53f9\u4e8e\u5927\u81ea\u7136\u7684\u795e\u5947\uff0c\u5fcd\u4e0d\u4f4f\u4f38\u624b\u629a\u6478\u90a3\u4e9b\u91d1\u9ec4\u7684\u9ea6\u7a57\u3002\u6307\u5c16\u4f20\u6765\u9ea6\u5b50\u7684\u6e29\u6da6\u89e6\u611f\uff0c\u4eff\u4f5b\u5728\u8ff0\u8bf4\u7740\u751f\u547d\u7684\u5965\u5999\u3002\u4f60\u6570\u4e86\u6570\uff0c\u4e00\u5171\u670942\u682a\u9ea6\u5b50\uff0c\u5728\u9633\u5149\u7684\u6620\u7167\u4e0b\u71a0\u71a0\u751f\u8f89\uff0c\u8c61\u5f81\u7740\u751f\u751f\u4e0d\u606f\u7684\u5e0c\u671b\u3002\n\n2 x 21\uff0c\u770b\u4f3c\u7b80\u5355\u7684\u4e58\u6cd5\uff0c\u5374\u8574\u85cf\u7740\u5982\u6b64\u4e30\u5bcc\u7684\u610f\u8c61\u3002\u5b83\u4e0d\u4ec5\u4ee3\u8868\u4e8642\u8fd9\u4e2a\u6570\u5b57\uff0c\u66f4\u8c61\u5f81\u7740\u81ea\u7136\u7684\u9988\u8d60\u3001\u751f\u547d\u7684\u5f8b\u52a8\u3001\u5e0c\u671b\u7684\u5149\u8292\u3002\u6bcf\u4e00\u4e2a\u6570\u5b57\u80cc\u540e\u90fd\u6709\u4e00\u4e2a\u52a8\u4eba\u7684\u6545\u4e8b\uff0c\u6bcf\u4e00\u4e2a\u7b97\u5f0f\u90fd\u8fde\u63a5\u7740\u6211\u4eec\u4e0e\u4e16\u754c\u7684\u7ebd\u5e26\u3002\n\n\u8ba9\u6211\u4eec\u6000\u7740\u656c\u754f\u548c\u597d\u5947\u7684\u5fc3\uff0c\u53bb\u63a2\u7d22\u6570\u5b57\u80cc\u540e\u7684\u5965\u79d8\uff0c\u53bb\u611f\u53d7\u751f\u547d\u7684\u5f8b\u52a8\u548c\u7f8e\u597d\u30022 x 21 = 42\uff0c\u8fd9\u4e2a\u7b80\u5355\u7684\u7b49\u5f0f\uff0c\u5374\u9053\u51fa\u4e86\u4e16\u95f4\u4e07\u7269\u7684\u548c\u8c10\u4e0e\u5e73\u8861\u3002\n\n*\u7741\u5f00\u53cc\u773c\uff0c\u56de\u5230\u73b0\u5b9e* \n\nVoil\u00e0, 2 x 21 font 42. \u4f46\u66f4\u91cd\u8981\u7684\u662f\uff0c\u8fd9\u4e2a\u95ee\u9898\u5e26\u7ed9\u6211\u4eec\u7684\uff0c\u662f\u5bf9\u751f\u547d\u5965\u5999\u7684\u601d\u8003\u548c\u611f\u609f\u3002\u6570\u5b57\u7684\u9b45\u529b\uff0c\u5728\u4e8e\u5b83\u4eec\u8fde\u63a5\u7740\u6211\u4eec\u4e0e\u4e16\u754c\uff0c\u8574\u542b\u7740\u65e0\u9650\u7684\u60f3\u8c61\u7a7a\u95f4\u3002\u8ba9\u6211\u4eec\u7528\u5fc3\u53bb\u4f53\u4f1a\u6570\u5b57\u80cc\u540e\u7684\u6545\u4e8b\uff0c\u53bb\u63a2\u7d22\u751f\u547d\u7684\u771f\u8c1b\u5427\u3002"
+    ],
+    [
+        "0.4.2.6",
+        "rtist",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.2.6",
+        "unity",
+        1,
+        false,
+        "ERROR: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: mQb4Ek9m7_yiMrRu6xtA0WOgIP560kHIdBx_CIOrWiSl2M7EloV2Ug&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+    ],
+    [
+        "0.4.2.6",
+        "midijourney",
+        1,
+        false,
+        "ERROR: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: YQpQK6d6KnelTqMyDz98MqAS02vRNfxrFHiPjuoz7dxfiXH_Nv6IVw&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+    ],
+    [
+        "0.4.2.6",
+        "qwen-2.5-coder-32b",
+        5,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.2.6",
+        "claude-3.5-sonnet",
+        4,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: ResponseStatusError: Response 502: Bad gateway\nLiaobots: ResponseStatusError: Response 402: Error\nPollinationsAI: ResponseStatusError: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: PztRKwssoy2kqphNc6URo-FQ68jUQp3pQr5QmtpgSLgmcSiV-8tVVw&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.2.6",
+        "gpt-4o",
+        10,
+        true,
+        "2 x 21 equals 42. If you have any more questions, feel free to ask!"
+    ],
+    [
+        "0.4.2.6",
+        "gpt-4o-mini",
+        9,
+        true,
+        "2 x 21 font 42. Si tienes m\u00e1s preguntas, n'h\u00e9site pas \u00e0 demander !"
+    ],
+    [
+        "0.4.2.6",
+        "sd-3.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/ed8d3eaa8db25685a1adcde4ed91ccef53e5f6579a4a361194a654f00bffa8e0/image.webp)](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/ed8d3eaa8db25685a1adcde4ed91ccef53e5f6579a4a361194a654f00bffa8e0/image.webp)\n<!-- generated images end -->\n\n"
     ]
 ]
