@@ -1,3 +1,3 @@
 see [results.md](results.md)
 
-<font color="red">HELLO</font>
+<b style="color:red">HELLO</b>
