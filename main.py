@@ -120,7 +120,11 @@ if __name__ == "__main__":
                 good=""
                 if nott:
                     n,o,t = nott
-                    if o: good=f"{v}({n})"
+                    if o: 
+                        #good=f"{v}({n})"
+                        good="$${\color{green}%s(%s)}$$" % (v,n)
+                    else:
+                        good="$${\color{red}%s}$$" % v
                 vv.append( f"{good:13s}" )
             fid.write(f"|{model:20s}|{'|'.join(vv)}|\n")
 
