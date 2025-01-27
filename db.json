@@ -7922,5 +7922,523 @@
         1,
         true,
         "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/ed8d3eaa8db25685a1adcde4ed91ccef53e5f6579a4a361194a654f00bffa8e0/image.webp)](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/ed8d3eaa8db25685a1adcde4ed91ccef53e5f6579a4a361194a654f00bffa8e0/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "o1",
+        1,
+        false,
+        "ERROR: har_and_cookies dir is not readable"
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.2-70b",
+        1,
+        false,
+        "ERROR: 'llama-3.2-70b'"
+    ],
+    [
+        "0.4.3.2",
+        "phi-3.5-mini",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.3.2",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.4.3.2",
+        "qwen-2-vl-7b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.4.3.2",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.3.2",
+        "MiniMax",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.3.2",
+        "gemini",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.4.3.2",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.3.2",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.3.2",
+        "llama-2-7b",
+        1,
+        false,
+        "ERROR: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.3.2",
+        "sonar-online",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.3.2",
+        "lfm-40b",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.3.2",
+        "sonar-chat",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.3.2",
+        "sd-3.5",
+        1,
+        false,
+        "ERROR: GPU token limit exceeded: data: null\n"
+    ],
+    [
+        "0.4.3.2",
+        "gpt-4",
+        11,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.1-8b",
+        6,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "llama-3-70b",
+        1,
+        false,
+        "ERROR: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.2-90b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!\nAutonomousAI: KeyError: 'llama-3.2-90b'"
+    ],
+    [
+        "0.4.3.2",
+        "command-r7b",
+        1,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.3.2",
+        "llama-3-8b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!\nCloudflare: AttributeError: 'SimpleCookie' object has no attribute 'jar'"
+    ],
+    [
+        "0.4.3.2",
+        "command-r-plus",
+        2,
+        true,
+        "42"
+    ],
+    [
+        "0.4.3.2",
+        "command-r",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "gemini-exp",
+        1,
+        false,
+        "ERROR: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.3.2",
+        "gemma-2-27b",
+        1,
+        false,
+        "ERROR: Response 429: {\"error\":\"TooManyRequests: Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.3.2",
+        "cably-80b",
+        1,
+        false,
+        "ERROR: Invalid Authorization header"
+    ],
+    [
+        "0.4.3.2",
+        "nemotron-70b",
+        3,
+        true,
+        "Un calcul simple!\n\n2 x 21 = **42**"
+    ],
+    [
+        "0.4.3.2",
+        "wizardlm-2-7b",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gal 42. Voici la calcul :\n\n\\[ \n2 \\times 21 = 42 \n\\]\n\nAinsi, le r\u00e9sultat est 42."
+    ],
+    [
+        "0.4.3.2",
+        "wizardlm-2-8x22b",
+        2,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.2-11b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"TooManyRequests: Please log in or use a HF access token\"}"
+    ],
+    [
+        "0.4.3.2",
+        "qwen-2.5-72b",
+        3,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "claude-3-haiku",
+        2,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.4.3.2",
+        "gemini-1.5-pro",
+        7,
+        true,
+        "https:// discord.gg/Ew6JzjA2NR : Free AI server providing unlimited free usage, join for API Key\n\n2 x 21 = 42 \n"
+    ],
+    [
+        "0.4.3.2",
+        "gpt-4o-mini",
+        9,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error rate_limit_exceeded occured. Check server logs for details."
+    ],
+    [
+        "0.4.3.2",
+        "mixtral-8x7b",
+        2,
+        true,
+        "You can get UNLIMITED API Key with just 10 invites! Join https: //discord.gg/Ew6JzjA2NR\n\n 2 x 21 equals 42."
+    ],
+    [
+        "0.4.3.2",
+        "dall-e-3",
+        5,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=55918&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=55918&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "qwen-2-72b",
+        1,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.4.3.2",
+        "flux-schnell",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/313fb1b0a889f94f37c43a7a2f1e81ba7a932d12/image.webp)](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/313fb1b0a889f94f37c43a7a2f1e81ba7a932d12/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "gpt-3.5-turbo",
+        2,
+        true,
+        "2 x 21 \u00e9galent 42. Germane \u00e0 la question, est-ce que vous avez d'autres questions ou id\u00e9es pour explorer ? Je suis l\u00e0 pour vous aider et encourager la cr\u00e9ativit\u00e9 ! \ud83d\ude09\ud83e\udde0"
+    ],
+    [
+        "0.4.3.2",
+        "o1-preview",
+        1,
+        false,
+        "ERROR: Response 402: Error"
+    ],
+    [
+        "0.4.3.2",
+        "gemini-2.0-flash",
+        2,
+        true,
+        "2 x 21 font 42.\n"
+    ],
+    [
+        "0.4.3.2",
+        "qvq-72b",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "flux",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/7587bb9ff71824fd2217264740e10baef641f493/image.webp)](https://black-forest-labs-flux-1-schnell.hf.space/file=/tmp/gradio/7587bb9ff71824fd2217264740e10baef641f493/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "grok-2",
+        1,
+        true,
+        "2 x 21 font **42**."
+    ],
+    [
+        "0.4.3.2",
+        "gemini-2.0-flash-thinking",
+        1,
+        true,
+        "2 x 21 font **42**."
+    ],
+    [
+        "0.4.3.2",
+        "hermes-3",
+        2,
+        true,
+        "2 x 21 = 42\n\nPour r\u00e9soudre cette multiplication simple, vous pouvez utiliser la m\u00e9thode suivante :\n\n2 x 21 = (2 x 20) + (2 x 1)\n        = 40 + 2\n        = 42\n\nDonc, 2 multipli\u00e9 par 21 \u00e9gale 42."
+    ],
+    [
+        "0.4.3.2",
+        "claude-3-opus",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nLiaobots: ResponseStatusError: Response 402: Error\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.3.2",
+        "glm-4",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "sdxl-turbo",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=94361&width=1024&height=1024&model=turbo&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=94361&width=1024&height=1024&model=turbo&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "mistral-nemo",
+        3,
+        true,
+        "Le r\u00e9sultat de 2 multipli\u00e9 par 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.3-70b",
+        8,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.3.2",
+        "gemini-1.5-flash",
+        5,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.4.3.2",
+        "hermes-2-dpo",
+        1,
+        true,
+        "2 x 21 = 42.\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.4.3.2",
+        "claude-3.5-sonnet",
+        3,
+        true,
+        "Calculons :\n\n2 x 21 = 42\n\nLa r\u00e9ponse est 42."
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.1-70b",
+        6,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "gpt-4o",
+        10,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "mixtral-7b",
+        1,
+        true,
+        "La r\u00e9ponse est 42. Il s'agit de la multiplication de 2 par 21."
+    ],
+    [
+        "0.4.3.2",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "llama-3.1-405b",
+        2,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.3.2",
+        "midjourney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=28674&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=28674&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "blackboxai-pro",
+        1,
+        true,
+        ""
+    ],
+    [
+        "0.4.3.2",
+        "dbrx-instruct",
+        1,
+        true,
+        "2 fois 21 font 42.\n\n42 est le nombre de lignes d'un texte de la Bible, le Livre de l'Exode, qui d\u00e9crit la construction de l'Arche d'alliance. C'est aussi le nombre de lettres dans le nom de Dieu en h\u00e9breu, YHWH.\n\nEn math\u00e9matiques, 42 est un nombre Harshad, c'est-\u00e0-dire un nombre entier qui est divisible par la somme de ses chiffres. Il est \u00e9galement un nombre automorphe, c'est-\u00e0-dire qu'il existe un nombre entier positif tel que le nombre de chiffre de est \u00e9gal \u00e0 .\n\nEn informatique, 42 est le nombre de caract\u00e8res dans le message \"The Answer to the Ultimate Question of Life, The Universe, and Everything is 42\", qui est la r\u00e9ponse donn\u00e9e par le super-ordinateur Deep Thought dans le roman de science-fiction \"Le Guide du voyageur galactique\" de Douglas Adams.\n\nEnfin, 42 est un nombre qui a \u00e9t\u00e9 utilis\u00e9 dans de nombreuses \u0153uvres de fiction, comme dans la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"Lost\", o\u00f9 il est le nombre de jours que les personnages ont pass\u00e9 sur l'\u00eele, ou dans le film \"The Hitchhiker's Guide to the Galaxy\", o\u00f9 il est la r\u00e9ponse \u00e0 la grande question sur la vie, l'univers et le reste."
+    ],
+    [
+        "0.4.3.2",
+        "qwq-32b",
+        4,
+        true,
+        "Alors, je dois calculer 2 multipli\u00e9 par 21. Hmm, multiplication, c'est une op\u00e9ration basique, mais je vais y aller pas \u00e0 pas pour m'assurer que je ne fais pas d'erreur.\n\nPremi\u00e8rement, je sais que multiplier deux nombres entiers consiste \u00e0 additionner l'un des nombres le nombre de fois indiqu\u00e9 par le deuxi\u00e8me nombre. Donc, 2 multipli\u00e9 par 21, \u00e7a veut dire que je dois additionner 2, 21 fois, ou bien additionner 21, 2 fois. Peu importe l'ordre, le r\u00e9sultat devrait \u00eatre le m\u00eame because la multiplication est commutative.\n\nAlors, si je prends 2 et que je l'ajoute 21 fois, ce serait 2 + 2 + 2 + ... ouais, mais \u00e7a va prendre du temps d'\u00e9crire vingt et une fois le nombre 2. Il doit y avoir un moyen plus rapide.\n\nAttends, je me rappelle que je peux\u5206\u89e3 multiplication en parties plus petites. Par exemple, 2 fois 20 plus 2 fois 1. Car 21 est \u00e9gal \u00e0 20 plus 1. Donc, 2 fois 21 serait \u00e9gal \u00e0 2 fois 20 plus 2 fois 1.\n\nCalculons \u00e7a. 2 fois 20 est 40, et 2 fois 1 est 2. Maintenant, j'ajoute ces deux r\u00e9sultats ensemble : 40 plus 2 fait 42.\n\nDonc, 2 fois 21 est 42.\n\nMais pour v\u00e9rifier, je peux aussi faire la multiplication directement. Je sais que\u5f53 je multiplie un nombre par 2, c'est comme double ce nombre. Donc, double de 21 est 42. Oui, \u00e7a correspond \u00e0 ce que j'ai trouv\u00e9 pr\u00e9c\u00e9demment.\n\nEncore une fa\u00e7on de v\u00e9rifier : je peux utiliser la division pour v\u00e9rifier la multiplication. Si 2 fois 21 est 42, alors 42 divis\u00e9 par 2 devrait \u00eatre \u00e9gal \u00e0 21. Attends, 42 divis\u00e9 par 2 est 21. Oui, \u00e7a confirme que ma multiplication est correcte.\n\nOu bien, je peux aussi penser en termes de dizaines et d'unit\u00e9s. 21 est compos\u00e9 de 2 dizaines et 1 unit\u00e9. Donc, multiplier par 2\u4f1a\u7ed9 dizaines et unit\u00e9s\u5404\u81ea\u4e58\u4ee52\u3002 Donc, 2 fois 2 dizaines est 4 dizaines, qui est 40, et 2 fois 1 unit\u00e9 est 2 unit\u00e9s, qui est 2. En ajoutant 40 et 2, j'obtiens \u00e0 nouveau 42.\n\nJe pense que je l'ai suffisamment v\u00e9rifi\u00e9. Je suis confiant que 2 fois 21 est bien 42.\n\n**Final Answer**\n\n\\[ \\boxed{42} \\]"
+    ],
+    [
+        "0.4.3.2",
+        "flux-pro",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=9614&width=1024&height=1024&model=flux-pro&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien+font+2+x+21?seed=9614&width=1024&height=1024&model=flux-pro&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.3.2",
+        "o1-mini",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale\u202f42."
+    ],
+    [
+        "0.4.3.2",
+        "claude-3-sonnet",
+        1,
+        true,
+        "D'accord, calculons 2 x 21 :\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 x 21 = 42"
+    ],
+    [
+        "0.4.3.2",
+        "p1",
+        1,
+        false,
+        "ERROR: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: QhlRe1blooZFvRpm4KtzypHsNTSrdGryEbseGq2wfJGZ-YvItt3Rrg&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+    ],
+    [
+        "0.4.3.2",
+        "evil",
+        1,
+        false,
+        "ERROR: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: RHka2hl6YxFipmKBxFjPsdG5NuGNQA8XBWRbpFsBQQmvOImnEDCL_g&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+    ],
+    [
+        "0.4.3.2",
+        "deepseek-chat",
+        4,
+        true,
+        ""
+    ],
+    [
+        "0.4.3.2",
+        "qwen-2.5-coder-32b",
+        5,
+        true,
+        "2 x 21 = 42\n\nPour expliquer comment on arrive \u00e0 ce r\u00e9sultat :\n\n1. On peut penser \u00e0 ceci comme 2 groupes de 21\n2. Ou bien 21 ajout\u00e9 \u00e0 lui-m\u00eame une fois (21 + 21)\n3. On peut aussi le voir comme (2 x 20) + (2 x 1) = 40 + 2 = 42\n\nDonc, 2 multipli\u00e9 par 21 donne 42."
+    ],
+    [
+        "0.4.3.2",
+        "deepseek-r1",
+        5,
+        false,
+        "ERROR: RetryProvider failed:\nPollinationsAI: ResponseStatusError: Response 504: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>504 Gateway Timeout ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront) HTTP3 Server\nRequest ID: wz279Vjse7hHAA5lnHAWZU2XkoaFpPZpLB-yPYiNsXNily9SedWEKQ&#x3D;&#x3D;\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHuggingFace: ResponseStatusError: Response 429: {\"error\":\"TooManyRequests: Please log in or use a HF access token\"}\nBlackbox: UnboundLocalError: cannot access local variable 'chunk_text' where it is not associated with a value\nJmuz: ResponseError: Service currently unavailable in your region. Sorry!"
+    ],
+    [
+        "0.4.3.2",
+        "flux-dev",
+        3,
+        false,
+        "ERROR: "
     ]
 ]
