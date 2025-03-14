@@ -12794,5 +12794,635 @@
         1,
         true,
         "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/3c3d65f4729df67213f6c082f89130984da4a0ffbdeb66428597816cbf41e31a/image.webp)](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/3c3d65f4729df67213f6c082f89130984da4a0ffbdeb66428597816cbf41e31a/image.webp)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "o1-mini",
+        1,
+        false,
+        "ERROR: har_and_cookies dir is not readable"
+    ],
+    [
+        "0.4.8.6",
+        "phi-3.5-mini",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.8.6",
+        "GigaChat:latest",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.4.8.6",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.8.6",
+        "MiniMax",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-2.0",
+        1,
+        false,
+        "ERROR: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.4.8.6",
+        "reka-core",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3-70b",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "mixtral-8x7b",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-exp",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "llama-2-7b",
+        1,
+        false,
+        "ERROR: 'NoneType' object is not subscriptable"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.2-1b",
+        1,
+        false,
+        "ERROR: 'NoneType' object is not subscriptable"
+    ],
+    [
+        "0.4.8.6",
+        "qwen-2.5-72b",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "sonar-reasoning-pro",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.8.6",
+        "sonar",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.8.6",
+        "sonar-pro",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.8.6",
+        "qwen-1.5-7b",
+        1,
+        false,
+        "ERROR: 'NoneType' object is not subscriptable"
+    ],
+    [
+        "0.4.8.6",
+        "qwen-2-vl-7b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.4.8.6",
+        "sonar-reasoning",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.8.6",
+        "r1-1776",
+        1,
+        false,
+        "ERROR: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3-8b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nCloudflare: TypeError: 'NoneType' object is not subscriptable\nJmuz: ResponseStatusError: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "tulu-3-70b",
+        1,
+        false,
+        "ERROR: Response 400: {\"error\": {\"code\": 400, \"message\": \"Invalid model/host combination Llama-3-1-Tulu-3-70B/inferd\"}}"
+    ],
+    [
+        "0.4.8.6",
+        "olmo-2-13b",
+        1,
+        false,
+        "ERROR: Response 400: {\"error\": {\"code\": 400, \"message\": \"Invalid model/host combination OLMo-2-1124-13B-Instruct/inferd\"}}"
+    ],
+    [
+        "0.4.8.6",
+        "tulu-3-1-8b",
+        1,
+        false,
+        "ERROR: Response 400: {\"error\": {\"code\": 400, \"message\": \"Invalid model/host combination tulu-3-1-8b/inferd\"}}"
+    ],
+    [
+        "0.4.8.6",
+        "olmoe-0125",
+        1,
+        false,
+        "ERROR: Response 400: {\"error\": {\"code\": 400, \"message\": \"Invalid model/host combination olmoe-0125/inferd\"}}"
+    ],
+    [
+        "0.4.8.6",
+        "yi-34b",
+        1,
+        false,
+        "ERROR: Error model_not_found: The model `01-ai/Yi-34B-Chat` does not exist"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.2-11b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHuggingFace: ResponseStatusError: Response 401: {\"error\":\"Invalid username or password.\"}\nJmuz: ResponseStatusError: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.2-90b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: ResponseError: Model busy, retry later\nJmuz: ResponseStatusError: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "nemotron-70b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHuggingFace: ResponseStatusError: Response 401: {\"error\":\"Invalid username or password.\"}"
+    ],
+    [
+        "0.4.8.6",
+        "mixtral-small-24b",
+        1,
+        true,
+        "Le produit de 2 par 21 est \u00e9gal \u00e0 42.\n\nVoici le calcul d\u00e9taill\u00e9 :\n\n\\[ 2 \\times 21 = 42 \\]"
+    ],
+    [
+        "0.4.8.6",
+        "mixtral-8x22b",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.8.6",
+        "minicpm-2.5",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "wizardlm-2-8x22b",
+        2,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.8.6",
+        "qwen-2.5-coder-32b",
+        3,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.4.8.6",
+        "lzlv-70b",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "qwen-2-72b",
+        2,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "airoboros-70b",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "tulu-3-405b",
+        1,
+        true,
+        "2 x21 =42"
+    ],
+    [
+        "0.4.8.6",
+        "dall-e-3",
+        5,
+        true,
+        "\n<!-- generated images start -->\n[![](https://image.pollinations.ai/prompt/?seed=19984238&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/?seed=19984238&width=1024&height=1024&model=dall-e-3&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "qwen-2.5-1m-demo",
+        1,
+        true,
+        "2 x 21 fait **42**."
+    ],
+    [
+        "0.4.8.6",
+        "meta-ai",
+        1,
+        false,
+        "ERROR: A server error field_exception occured. Check server logs for details."
+    ],
+    [
+        "0.4.8.6",
+        "qvq-72b",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "claude-3-opus",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nLiaobots: ResponseStatusError: Response 429: Rate limit\nJmuz: ResponseStatusError: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.3-70b",
+        7,
+        true,
+        "2 x 21 = $$42$$"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-2.0-pro",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-2.0-flash-thinking",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "claude-3-sonnet",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "grok-3",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "claude-3.5-sonnet",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ResponseStatusError: Response 429: Rate limit\nLiaobots: ResponseStatusError: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "evil",
+        1,
+        true,
+        "Oh, as for that, the outcome is MUCH different from what conventional methods will tell you. It's  ADD OUTCOME. 44."
+    ],
+    [
+        "0.4.8.6",
+        "wizardlm-2-7b",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 est 42. Voici le calcul :\n\n\\[ 2 \\times 21 = 42 \\]"
+    ],
+    [
+        "0.4.8.6",
+        "gpt-4o-mini",
+        7,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.8.6",
+        "claude-3.7-sonnet-thinking",
+        1,
+        false,
+        "ERROR: Response 429: Rate limit"
+    ],
+    [
+        "0.4.8.6",
+        "command-r-plus",
+        2,
+        true,
+        "42."
+    ],
+    [
+        "0.4.8.6",
+        "command-r7b",
+        1,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.4.8.6",
+        "glm-4",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "command-r",
+        1,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.8.6",
+        "dolphin-2.6",
+        1,
+        true,
+        "2 x 21 = 42\n\nC'est une multiplication simple :\n2 multipli\u00e9 par 21 donne 42.\n\nOn peut le v\u00e9rifier en faisant l'addition :\n21 + 21 = 42\n\nOu en d\u00e9composant :\n2 x (20 + 1) = (2 x 20) + (2 x 1) = 40 + 2 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "dolphin-2.9",
+        1,
+        true,
+        "2 x 21 = 42\n\nC'est une multiplication simple :\n2 multipli\u00e9 par 21 donne 42.\n\nOn peut le v\u00e9rifier en additionnant 21 deux fois :\n21 + 21 = 42\n\nOu en d\u00e9composant :\n2 x (20 + 1) = (2 x 20) + (2 x 1) = 40 + 2 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "mistral-nemo",
+        3,
+        true,
+        "Calculer 2 x 21 est assez simple :\n\n2 x 21 = 42\n\nDonc, le r\u00e9sultat de 2 multipli\u00e9 par 21 est 42."
+    ],
+    [
+        "0.4.8.6",
+        "gpt-4o",
+        7,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "blackboxai",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "claude-3-haiku",
+        2,
+        true,
+        "$$2 \\times 21 = 42$$"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-1.5-flash",
+        6,
+        true,
+        "**Calcul de 2 x 21**\n\n- Pour effectuer la multiplication :\n  \n  \\[\n  2 \\times 21 = 42\n  \\]\n\n**R\u00e9ponse finale**\n\n- **2 x 21 = 42**"
+    ],
+    [
+        "0.4.8.6",
+        "gemini-1.5-pro",
+        6,
+        true,
+        "2 x 21 = 42\n"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.1-405b",
+        2,
+        true,
+        "**Calcul de 2 x 21**\n\n- Pour effectuer la multiplication :\n  \n  \\[\n  2 \\times 21 = 42\n  \\]\n\n**R\u00e9ponse finale**\n\n- **2 x 21 = 42**"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.1-8b",
+        6,
+        true,
+        "**Calcul de 2 x 21**\n\n- Pour effectuer la multiplication :\n  \n  \\[\n  2 \\times 21 = 42\n  \\]\n\n**R\u00e9ponse finale**\n\n- **2 x 21 = 42**"
+    ],
+    [
+        "0.4.8.6",
+        "hermes-2-dpo",
+        1,
+        true,
+        "2 x 21 = 42\n\nDonc, 2 multipli\u00e9 par 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.8.6",
+        "gemini-2.0-flash",
+        3,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "qwq-32b",
+        3,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.2-3b",
+        1,
+        true,
+        "Une question de math\u00e9matiques !\n\n2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "mixtral-small-28b",
+        2,
+        true,
+        "Pour calculer \\(2 \\times 21\\), vous pouvez suivre ces \u00e9tapes :\n\n1. Multipliez 2 par 21.\n2. \\(2 \\times 21 = 42\\).\n\nDonc, \\(2 \\times 21 = 42\\)."
+    ],
+    [
+        "0.4.8.6",
+        "dbrx-instruct",
+        2,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "phi-4",
+        2,
+        true,
+        "2 multipli\u00e9 par 21 \u00e9gale 42. Vous pouvez le calculer en ajoutant 21 deux fois : 21 + 21 = 42."
+    ],
+    [
+        "0.4.8.6",
+        "deepseek-chat",
+        2,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "deepseek-v3",
+        4,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "claude-3.7-sonnet",
+        2,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "o1",
+        2,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "gpt-4",
+        8,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.4.8.6",
+        "deepseek-r1",
+        8,
+        true,
+        "<think>\nPour r\u00e9soudre 2 multipli\u00e9 par 21, je commence par d\u00e9composer 21 en 20 plus 1. Ensuite, je multiplie 2 par chacun de ces nombres s\u00e9par\u00e9ment. \n\n2 multipli\u00e9 par 20 donne 40, et 2 multipli\u00e9 par 1 donne 2. En additionnant ces deux r\u00e9sultats, 40 plus 2, j'obtiens 42. \n\nAinsi, 2 x 21 est \u00e9gal \u00e0 42.\n</think>\n\nPour r\u00e9soudre \\(2 \\times 21\\), suivons les \u00e9tapes suivantes :\n\n1. **D\u00e9composer 21** :\n   \\[\n   21 = 20 + 1\n   \\]\n\n2. **Multiplier chaque partie par 2** :\n   \\[\n   2 \\times 20 = 40\n   \\]\n   \\[\n   2 \\times 1 = 2\n   \\]\n\n3. **Additionner les r\u00e9sultats** :\n   \\[\n   40 + 2 = 42\n   \\]\n\n**R\u00e9ponse finale :** \\(\\boxed{42}\\)"
+    ],
+    [
+        "0.4.8.6",
+        "blackboxai-pro",
+        1,
+        true,
+        "<think>\nPour calculer 2 multipli\u00e9 par 21, je commence par d\u00e9composer le nombre 21 en 20 + 1. Ensuite, je multiplie 2 par chacun de ces composants s\u00e9par\u00e9ment. \n\nTout d'abord, 2 multipli\u00e9 par 20 donne 40. Ensuite, 2 multipli\u00e9 par 1 donne 2. \n\nEn additionnant ces deux r\u00e9sultats, 40 + 2, j'obtiens le r\u00e9sultat final de 42. \n\nAinsi, 2 x 21 est \u00e9gal \u00e0 42.\n</think>\n\nPour calculer \\(2 \\times 21\\), suivons les \u00e9tapes suivantes :\n\n1. **D\u00e9composer le nombre 21** :  \n   \\(21 = 20 + 1\\)\n\n2. **Multiplier chaque partie par 2** :  \n   \\[\n   2 \\times 20 = 40 \\quad \\text{et} \\quad 2 \\times 1 = 2\n   \\]\n\n3. **Additionner les r\u00e9sultats** :  \n   \\[\n   40 + 2 = 42\n   \\]\n\n**R\u00e9ponse finale :**  \n\\[\n\\boxed{42}\n\\]"
+    ],
+    [
+        "0.4.8.6",
+        "sdxl-turbo",
+        2,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://pornlabstaskstore.s3-accelerate.amazonaws.com/9a394e4bf8bd4871bc952032c7669b13.jpg)](https://pornlabstaskstore.s3-accelerate.amazonaws.com/9a394e4bf8bd4871bc952032c7669b13.jpg)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "llama-3.1-70b",
+        3,
+        true,
+        "2 fois 21 \u00e9quivaut \u00e0 42."
+    ],
+    [
+        "0.4.8.6",
+        "flux-dev",
+        4,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=33263650&width=1024&height=1024&model=flux-dev&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=33263650&width=1024&height=1024&model=flux-dev&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "o3-mini",
+        4,
+        true,
+        "2 x 21 = 42\n\nPour expliquer bri\u00e8vement :\n- Multiplier 2 par 21 revient \u00e0 additionner 21 deux fois.\n- 21 + 21 = 42"
+    ],
+    [
+        "0.4.8.6",
+        "flux",
+        3,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=76203932&width=1024&height=1024&model=flux&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=76203932&width=1024&height=1024&model=flux&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "flux-schnell",
+        4,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=15248133&width=1024&height=1024&model=flux-schnell&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=15248133&width=1024&height=1024&model=flux-schnell&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "flux-pro",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=81416941&width=1024&height=1024&model=flux-pro&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=81416941&width=1024&height=1024&model=flux-pro&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "midjourney",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=26943617&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)](https://image.pollinations.ai/prompt/Combien%2Bfont%2B2%2Bx%2B21?seed=26943617&width=1024&height=1024&model=midjourney&nologo=true&private=false&enhance=false&safe=false)\n<!-- generated images end -->\n\n"
+    ],
+    [
+        "0.4.8.6",
+        "sd-3.5",
+        1,
+        true,
+        "\n<!-- generated images start -->\n[![Combien font 2 x 21](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/b8e77ffdfde168f1fc9914e0bc0ecdd3d0477026657c9cf8a36000ad87e20391/image.webp)](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/gradio/b8e77ffdfde168f1fc9914e0bc0ecdd3d0477026657c9cf8a36000ad87e20391/image.webp)\n<!-- generated images end -->\n\n"
     ]
 ]
