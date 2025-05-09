@@ -15279,5 +15279,586 @@
         2,
         false,
         "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "o1-mini",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nOpenaiAccount: NoValidHarFileError: har_and_cookies dir is not readable\nOpenaiChat: NoValidHarFileError: har_and_cookies dir is not readable"
+    ],
+    [
+        "0.5.2.2",
+        "hermes-3",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nLambdaChat: MissingRequirementsError: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.5.2.2",
+        "phi-3.5-mini",
+        1,
+        false,
+        "ERROR: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.5.2.2",
+        "gigachat",
+        1,
+        false,
+        "ERROR: Missing \"api_key\""
+    ],
+    [
+        "0.5.2.2",
+        "pi",
+        1,
+        false,
+        "ERROR: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    ],
+    [
+        "0.5.2.2",
+        "MiniMax",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.5.2.2",
+        "lfm-40b",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nLambdaChat: MissingRequirementsError: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-2.0",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nGemini: MissingAuthError: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-2.0-flash-thinking",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nGemini: MissingAuthError: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-2.0-flash-thinking-with-apps",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nGemini: MissingAuthError: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.5.2.2",
+        "mixtral-8x7b",
+        1,
+        false,
+        "ERROR: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]"
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2.5-72b",
+        1,
+        false,
+        "ERROR: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-exp",
+        1,
+        false,
+        "ERROR: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]"
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.2-3b",
+        1,
+        false,
+        "ERROR: Response 429: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "grok-3",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nGrok: MissingRequirementsError: Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2-vl-7b",
+        1,
+        false,
+        "ERROR: Add a \"api_key\""
+    ],
+    [
+        "0.5.2.2",
+        "llama-3-70b",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "reka-core",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nReka: MissingRequirementsError: Install \"browser_cookie3\" package\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "llama-3-8b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "r1-1776",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: ResponseStatusError: Response 403: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "sonar-pro",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: ResponseStatusError: Response 403: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "command-r",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "command-r7b",
+        1,
+        true,
+        "2 x 21 = 42."
+    ],
+    [
+        "0.5.2.2",
+        "sonar-reasoning-pro",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: ResponseStatusError: Response 403: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "sonar",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: ResponseStatusError: Response 403: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "sonar-reasoning",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nPerplexityLabs: ResponseStatusError: Response 403: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-2.0-flash",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nGeminiPro: MissingAuthError: Add a \"api_key\"\nDynaspark: ResponseStatusError: Response 404: HTML content\nGemini: MissingAuthError: Missing \"__Secure-1PSID\" cookie"
+    ],
+    [
+        "0.5.2.2",
+        "command-a",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "qvq-72b",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingSpace: ResponseStatusError: Response 503: HTML content"
+    ],
+    [
+        "0.5.2.2",
+        "olmo-2-13b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "mixtral-small-24b",
+        3,
+        true,
+        "Le produit de 2 par 21 est \u00e9gal \u00e0 42. Donc, 2 x 21 = 42."
+    ],
+    [
+        "0.5.2.2",
+        "tulu-3-70b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "tulu-3-1-8b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "olmo-1-7b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "tulu-3-405b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "olmo-2-32b",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "olmo-4-synthetic",
+        1,
+        false,
+        "ERROR: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.3-70b",
+        8,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "yi-34b",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: ResponseError: Error model_not_found: The model `01-ai/Yi-34B-Chat` does not exist"
+    ],
+    [
+        "0.5.2.2",
+        "dbrx-instruct",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: ResponseError: Error model_not_found: The model `databricks/dbrx-instruct` does not exist"
+    ],
+    [
+        "0.5.2.2",
+        "nemotron-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingFace: MissingAuthError: Response 401: Invalid username or password.\nLambdaChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package"
+    ],
+    [
+        "0.5.2.2",
+        "command-r-plus",
+        2,
+        true,
+        "42."
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.1-405b",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]\nAllenAI: ResponseStatusError: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.1-70b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]\nGlider: ResponseStatusError: Response 403: HTML content\nHarProvider: CloudflareError: Response 403: Cloudflare detected\nAllenAI: ResponseStatusError: Response 400: 1 validation error for CreateMessageRequestV4WithLists\ncaptcha_token\n  Value error, Failed to evaluate captcha. Please reload the page and try again. [type=value_error, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+    ],
+    [
+        "0.5.2.2",
+        "minicpm-2.5",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nDeepInfraChat: ResponseError: Model busy, retry later"
+    ],
+    [
+        "0.5.2.2",
+        "gpt-4o-mini",
+        9,
+        true,
+        "2 x 21 font 42. Simple et efficace ! Tu as une autre question de calcul, ou c\u2019est pour un d\u00e9fi rapide ?"
+    ],
+    [
+        "0.5.2.2",
+        "wizardlm-2-7b",
+        1,
+        true,
+        "Pour trouver le produit de 2 et 21, vous multipliez les deux nombres :\n\n\\[ \n2 \\times 21 = 42 \n\\]\n\nAinsi, 2 fois 21 \u00e9gale 42."
+    ],
+    [
+        "0.5.2.2",
+        "mixtral-8x22b",
+        1,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.5.2.2",
+        "wizardlm-2-8x22b",
+        2,
+        true,
+        "2 multipli\u00e9 par 21 fait 42."
+    ],
+    [
+        "0.5.2.2",
+        "airoboros-70b",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.2-90b",
+        2,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "lzlv-70b",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2-72b",
+        2,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2.5-1m",
+        1,
+        true,
+        "2 x 21 font **42**."
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2.5",
+        1,
+        true,
+        "2 x 21 fait 42."
+    ],
+    [
+        "0.5.2.2",
+        "qwq-32b",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]\nHuggingChat: MissingRequirementsError: Install \"browser_cookie3\" package\nHarProvider: CloudflareError: Response 403: Cloudflare detected"
+    ],
+    [
+        "0.5.2.2",
+        "dolphin-2.6",
+        1,
+        true,
+        "2 x 21 = 42\n\nVoici le calcul d\u00e9taill\u00e9 :\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 multipli\u00e9 par 21 donne bien 42."
+    ],
+    [
+        "0.5.2.2",
+        "blackboxai-pro",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)"
+    ],
+    [
+        "0.5.2.2",
+        "deepseek-chat",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]"
+    ],
+    [
+        "0.5.2.2",
+        "glm-4",
+        1,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.5.2.2",
+        "blackboxai",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)"
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2-5-max",
+        1,
+        true,
+        "Pour calculer $ 2 \\times 21 $, il suffit de multiplier 2 par 21.\n\n$$\n2 \\times 21 = 42\n$$\n\nDonc, **la r\u00e9ponse est** :\n\n$$\n\\boxed{42}\n$$"
+    ],
+    [
+        "0.5.2.2",
+        "dolphin-2.9",
+        1,
+        true,
+        "2 x 21 = 42\n\nVoici le calcul d\u00e9taill\u00e9 :\n\n2 x 21\n= 2 x (20 + 1)\n= (2 x 20) + (2 x 1)\n= 40 + 2\n= 42\n\nDonc, 2 x 21 = 42."
+    ],
+    [
+        "0.5.2.2",
+        "claude-3.7-sonnet",
+        2,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)"
+    ],
+    [
+        "0.5.2.2",
+        "gpt-4",
+        9,
+        true,
+        "2 x 21 font 42."
+    ],
+    [
+        "0.5.2.2",
+        "claude-3.5-sonnet",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)\nJmuz: ClientConnectorSSLError: Cannot connect to host jmuz.me:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)]"
+    ],
+    [
+        "0.5.2.2",
+        "o1",
+        3,
+        false,
+        "ERROR: RetryProvider failed:\nOpenaiAccount: NoValidHarFileError: har_and_cookies dir is not readable\nBlackbox: RateLimitError: You have reached your request limit for the hour. [Upgrade for higher rate limits](https://www.blackbox.ai/pricing?ref=rate-limit)\nCopilotAccount: MissingRequirementsError: Install or update \"curl_cffi\" package | pip install -U curl_cffi\nCopilot: MissingRequirementsError: Install or update \"curl_cffi\" package | pip install -U curl_cffi\nOpenaiChat: NoValidHarFileError: No .har file found"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-1.5-flash",
+        7,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.5.2.2",
+        "sd-3.5",
+        1,
+        false,
+        "ERROR: RetryProvider failed:\nHuggingSpace: ResponseError: GPU token limit exceeded: data: null\n"
+    ],
+    [
+        "0.5.2.2",
+        "gemini-1.5-pro",
+        6,
+        true,
+        "2 x 21 est \u00e9gal \u00e0 42."
+    ],
+    [
+        "0.5.2.2",
+        "meta-ai",
+        1,
+        true,
+        "2 x 21 = 42"
+    ],
+    [
+        "0.5.2.2",
+        "phi-4",
+        3,
+        true,
+        "La multiplication de 2 par 21 \u00e9gale 42."
+    ],
+    [
+        "0.5.2.2",
+        "deepseek-v3",
+        6,
+        true,
+        ""
+    ],
+    [
+        "0.5.2.2",
+        "evil",
+        2,
+        true,
+        "2 x 21 = 43."
+    ],
+    [
+        "0.5.2.2",
+        "deepseek-r1",
+        10,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "mistral-nemo",
+        3,
+        true,
+        "2 fois 21 font 42."
+    ],
+    [
+        "0.5.2.2",
+        "gpt-4o",
+        6,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.1-8b",
+        6,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "o3-mini",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "llama-3.2-11b",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "qwen-2.5-coder-32b",
+        3,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "llama-4-scout",
+        2,
+        false,
+        "ERROR: "
+    ],
+    [
+        "0.5.2.2",
+        "claude-3-haiku",
+        2,
+        false,
+        "ERROR: "
     ]
 ]
